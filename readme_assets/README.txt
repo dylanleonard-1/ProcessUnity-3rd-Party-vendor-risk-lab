@@ -1,0 +1,1 @@
+Drop images/diagrams/screenshots here for the README.md to reference.

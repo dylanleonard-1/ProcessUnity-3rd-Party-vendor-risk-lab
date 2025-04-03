@@ -1,0 +1,101 @@
+CVE_ID,Description,CVSS_Score
+CVE-2023-1000,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 9.4.,9.4
+CVE-2023-1001,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 5.1.,5.1
+CVE-2023-1002,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 9.4.,9.4
+CVE-2023-1003,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 4.3.,4.3
+CVE-2023-1004,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 9.5.,9.5
+CVE-2023-1005,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 8.2.,8.2
+CVE-2023-1006,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 8.3.,8.3
+CVE-2023-1007,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1008,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 9.2.,9.2
+CVE-2023-1009,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 6.6.,6.6
+CVE-2023-1010,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 4.6.,4.6
+CVE-2023-1011,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 5.7.,5.7
+CVE-2023-1012,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 7.7.,7.7
+CVE-2023-1013,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 6.4.,6.4
+CVE-2023-1014,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 7.6.,7.6
+CVE-2023-1015,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 8.9.,8.9
+CVE-2023-1016,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 7.9.,7.9
+CVE-2023-1017,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 4.6.,4.6
+CVE-2023-1018,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 7.2.,7.2
+CVE-2023-1019,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 8.6.,8.6
+CVE-2023-1020,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 9.5.,9.5
+CVE-2023-1021,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 5.0.,5.0
+CVE-2023-1022,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 6.0.,6.0
+CVE-2023-1023,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 4.5.,4.5
+CVE-2023-1024,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 6.9.,6.9
+CVE-2023-1025,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 7.5.,7.5
+CVE-2023-1026,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 6.4.,6.4
+CVE-2023-1027,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 7.8.,7.8
+CVE-2023-1028,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 8.4.,8.4
+CVE-2023-1029,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 9.1.,9.1
+CVE-2023-1030,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 6.7.,6.7
+CVE-2023-1031,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 9.5.,9.5
+CVE-2023-1032,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 6.9.,6.9
+CVE-2023-1033,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1034,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 8.0.,8.0
+CVE-2023-1035,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 7.3.,7.3
+CVE-2023-1036,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1037,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 8.1.,8.1
+CVE-2023-1038,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 6.6.,6.6
+CVE-2023-1039,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1040,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 10.0.,10.0
+CVE-2023-1041,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 7.9.,7.9
+CVE-2023-1042,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 4.7.,4.7
+CVE-2023-1043,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 8.9.,8.9
+CVE-2023-1044,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 7.9.,7.9
+CVE-2023-1045,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 9.9.,9.9
+CVE-2023-1046,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 9.4.,9.4
+CVE-2023-1047,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 5.3.,5.3
+CVE-2023-1048,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 7.5.,7.5
+CVE-2023-1049,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 8.9.,8.9
+CVE-2023-1050,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 9.6.,9.6
+CVE-2023-1051,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 6.7.,6.7
+CVE-2023-1052,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 5.2.,5.2
+CVE-2023-1053,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 7.0.,7.0
+CVE-2023-1054,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1055,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 6.5.,6.5
+CVE-2023-1056,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 9.8.,9.8
+CVE-2023-1057,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 5.8.,5.8
+CVE-2023-1058,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 7.4.,7.4
+CVE-2023-1059,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 8.2.,8.2
+CVE-2023-1060,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 5.0.,5.0
+CVE-2023-1061,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1062,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 6.0.,6.0
+CVE-2023-1063,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 4.8.,4.8
+CVE-2023-1064,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 5.1.,5.1
+CVE-2023-1065,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 5.9.,5.9
+CVE-2023-1066,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 7.4.,7.4
+CVE-2023-1067,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 5.7.,5.7
+CVE-2023-1068,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 5.8.,5.8
+CVE-2023-1069,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 6.6.,6.6
+CVE-2023-1070,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 7.1.,7.1
+CVE-2023-1071,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 8.3.,8.3
+CVE-2023-1072,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 8.5.,8.5
+CVE-2023-1073,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 8.0.,8.0
+CVE-2023-1074,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 6.5.,6.5
+CVE-2023-1075,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 6.1.,6.1
+CVE-2023-1076,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 9.8.,9.8
+CVE-2023-1077,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 7.3.,7.3
+CVE-2023-1078,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 7.6.,7.6
+CVE-2023-1079,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 8.1.,8.1
+CVE-2023-1080,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 8.0.,8.0
+CVE-2023-1081,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 8.6.,8.6
+CVE-2023-1082,A vulnerability in software component XYZ allows attackers to exploit remote code execution under specific conditions. CVSS base score of 6.7.,6.7
+CVE-2023-1083,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 6.4.,6.4
+CVE-2023-1084,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 9.2.,9.2
+CVE-2023-1085,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 4.5.,4.5
+CVE-2023-1086,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 9.8.,9.8
+CVE-2023-1087,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 4.1.,4.1
+CVE-2023-1088,A vulnerability in software component XYZ allows attackers to exploit information disclosure under specific conditions. CVSS base score of 5.3.,5.3
+CVE-2023-1089,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 8.8.,8.8
+CVE-2023-1090,A vulnerability in software component XYZ allows attackers to exploit authentication bypass under specific conditions. CVSS base score of 5.8.,5.8
+CVE-2023-1091,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 9.7.,9.7
+CVE-2023-1092,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 7.9.,7.9
+CVE-2023-1093,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 5.7.,5.7
+CVE-2023-1094,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 8.5.,8.5
+CVE-2023-1095,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 4.4.,4.4
+CVE-2023-1096,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 7.7.,7.7
+CVE-2023-1097,A vulnerability in software component XYZ allows attackers to exploit privilege escalation under specific conditions. CVSS base score of 8.2.,8.2
+CVE-2023-1098,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 4.3.,4.3
+CVE-2023-1099,A vulnerability in software component XYZ allows attackers to exploit denial of service under specific conditions. CVSS base score of 6.7.,6.7

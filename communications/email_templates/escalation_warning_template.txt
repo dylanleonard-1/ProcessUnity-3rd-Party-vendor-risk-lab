@@ -1,0 +1,27 @@
+Subject: FINAL NOTICE – Immediate Action Required on Unresolved Security Vulnerabilities
+
+Dear [Vendor Contact Name],
+
+This is a final escalation regarding the outstanding security vulnerabilities previously identified in your systems. Despite prior communications, we have not received a response or mitigation confirmation within the expected SLA window.
+
+Please be advised that this matter is now being escalated to internal stakeholders and may trigger additional risk review or remediation protocols per [Your Company]’s third-party risk policy.
+
+**Details:**
+- Vendor: [Vendor Name]
+- CVE(s): [List of CVEs]
+- Exposure Confirmed: [Yes/No]
+- Patch Available: [Yes/No]
+- Last Communication Attempt: [Date]
+
+**Action Required:**
+Kindly respond within **2 business days** with a detailed update on the remediation status and timeline. Failure to do so may result in suspension of services or further escalation to our Incident Response team.
+
+If remediation has already occurred, please attach relevant documentation or a security attestation.
+
+We value our partnership and are committed to resolving this promptly.
+
+Best regards,  
+[Your Name]  
+Cybersecurity Risk Team  
+[Your Email]  
+

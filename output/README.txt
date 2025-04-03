@@ -1,0 +1,1 @@
+This folder stores final enriched files or dashboards from the generator.

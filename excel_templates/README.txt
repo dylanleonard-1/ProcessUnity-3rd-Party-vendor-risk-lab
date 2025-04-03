@@ -1,0 +1,1 @@
+This folder holds Excel files with formulas like VLOOKUP/XLOOKUP, conditional formatting, etc.

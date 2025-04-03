@@ -1,0 +1,9 @@
+-------------------------------------
+🔍 Auto Enrichment Script Started at 2025-04-03_17-09-25
+Input Directory: /opt/vendor_risk_lab/injects
+Patch Data: /opt/vendor_risk_lab/data/patch_enrichment/patch_exploit_status.csv
+-------------------------------------
+📄 Enriching file: /opt/vendor_risk_lab/injects/2025-04-03_1708_mixed_training.csv
+✅ Enrichment complete. Output saved to: /opt/vendor_risk_lab/output/enriched_inject_2025-04-03_17-09-25.csv
+📦 Log saved to: /opt/vendor_risk_lab/logs/auto_enrich_log_2025-04-03_17-09-25.txt
+-------------------------------------

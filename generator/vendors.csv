@@ -1,0 +1,101 @@
+Vendor_Name,Region,LOB_Assigned,Contact_Name,Contact_Email
+Acme Corp Solutions,South America,IT,Riley Brown,riley.brown@acme.com
+Acme Corp Ltd,Asia,Compliance,Morgan Smith,morgan.smith@acme.com
+Globex Corporation Solutions,Asia,HR,Alex Davis,alex.davis@globex.com
+Globex Corporation Services,Europe,Operations,Jordan Smith,jordan.smith@globex.com
+Umbrella Inc Holdings,South America,Finance,Jamie Lee,jamie.lee@umbrella.com
+Umbrella Inc West,Europe,IT,Morgan Kim,morgan.kim@umbrella.com
+Initech East,Asia,IT,Devon Smith,devon.smith@initech.com
+Initech Services,South America,IT,Casey Wilson,casey.wilson@initech.com
+Hooli Ltd,Europe,Operations,Casey Lee,casey.lee@hooli.com
+Hooli Services,Europe,IT,Quinn Davis,quinn.davis@hooli.com
+Stark Industries Holdings,South America,HR,Quinn Davis,quinn.davis@stark.com
+Stark Industries Intl,Middle East,Finance,Casey Smith,casey.smith@stark.com
+Wayne Enterprises Ltd,North America,Compliance,Taylor Kim,taylor.kim@wayne.com
+Wayne Enterprises West,South America,HR,Jamie Nguyen,jamie.nguyen@wayne.com
+Gringotts Bank Intl,Asia,HR,Casey Martinez,casey.martinez@gringotts.com
+Gringotts Bank Ltd,Middle East,HR,Taylor Smith,taylor.smith@gringotts.com
+Cyberdyne Systems East,Europe,Finance,Devon Wilson,devon.wilson@cyberdyne.com
+Cyberdyne Systems Solutions,Middle East,IT,Quinn Martinez,quinn.martinez@cyberdyne.com
+Tyrell Corporation Ltd,Middle East,IT,Taylor Kim,taylor.kim@tyrell.com
+Tyrell Corporation,Middle East,Compliance,Alex Lee,alex.lee@tyrell.com
+Vehement Capital Partners Holdings,Europe,Operations,Taylor Davis,taylor.davis@vehement.com
+Vehement Capital Partners Group,Asia,IT,Casey Kim,casey.kim@vehement.com
+Wonka Industries East,Europe,HR,Taylor Patel,taylor.patel@wonka.com
+Wonka Industries Ltd,North America,HR,Jordan Smith,jordan.smith@wonka.com
+Massive Dynamic Services,Asia,Operations,Jordan Garcia,jordan.garcia@massive.com
+Massive Dynamic East,North America,Operations,Jamie Brown,jamie.brown@massive.com
+Virtucon Solutions,Europe,IT,Taylor Davis,taylor.davis@virtucon.com
+Virtucon Intl,Middle East,Operations,Alex Brown,alex.brown@virtucon.com
+Nakatomi Trading,Europe,Compliance,Riley Davis,riley.davis@nakatomi.com
+Nakatomi Trading West,Middle East,Compliance,Jamie Garcia,jamie.garcia@nakatomi.com
+Soylent Corp Holdings,Middle East,Finance,Casey Kim,casey.kim@soylent.com
+Soylent Corp West,Middle East,Finance,Devon Davis,devon.davis@soylent.com
+Oscorp Group,South America,Finance,Casey Garcia,casey.garcia@oscorp.com
+Oscorp Services,Asia,IT,Devon Davis,devon.davis@oscorp.com
+LexCorp Ltd,Europe,Compliance,Jamie Brown,jamie.brown@lexcorp.com
+LexCorp Group,Asia,Operations,Skyler Lee,skyler.lee@lexcorp.com
+Genco Pura Olive Oil West,Asia,Compliance,Jordan Patel,jordan.patel@genco.com
+Genco Pura Olive Oil Solutions,Asia,IT,Devon Garcia,devon.garcia@genco.com
+Duff Breweries West,North America,HR,Jamie Wilson,jamie.wilson@duff.com
+Duff Breweries Solutions,South America,Operations,Alex Wilson,alex.wilson@duff.com
+Monsters Inc East,South America,Operations,Casey Smith,casey.smith@monsters.com
+Monsters Inc Intl,Middle East,HR,Alex Davis,alex.davis@monsters.com
+Pied Piper Solutions,Middle East,HR,Skyler Lee,skyler.lee@pied.com
+Pied Piper Group,North America,Operations,Taylor Garcia,taylor.garcia@pied.com
+Planet Express Holdings,Europe,Finance,Taylor Wilson,taylor.wilson@planet.com
+Planet Express Intl,Asia,Finance,Alex Kim,alex.kim@planet.com
+Zorin Industries LLC,Asia,IT,Casey Wilson,casey.wilson@zorin.com
+Zorin Industries Group,Middle East,Finance,Devon Lee,devon.lee@zorin.com
+Oceanic Systems East,Europe,IT,Casey Patel,casey.patel@oceanic.com
+Oceanic Systems LLC,South America,Compliance,Quinn Davis,quinn.davis@oceanic.com
+Arasaka Holdings,North America,Compliance,Jordan Davis,jordan.davis@arasaka.com
+Arasaka Solutions,South America,Compliance,Morgan Lee,morgan.lee@arasaka.com
+Militech,North America,Compliance,Morgan Garcia,morgan.garcia@militech.com
+Militech Group,Middle East,Operations,Skyler Wilson,skyler.wilson@militech.com
+Xanatos Enterprises Intl,Asia,IT,Jordan Patel,jordan.patel@xanatos.com
+Xanatos Enterprises East,North America,Operations,Jamie Kim,jamie.kim@xanatos.com
+Octan Corp,Asia,Operations,Casey Nguyen,casey.nguyen@octan.com
+Octan Corp Ltd,South America,Finance,Devon Martinez,devon.martinez@octan.com
+Yoyodyne Propulsion,Middle East,Operations,Jamie Brown,jamie.brown@yoyodyne.com
+Yoyodyne Propulsion West,Asia,IT,Devon Lee,devon.lee@yoyodyne.com
+Abstergo Holdings,South America,Finance,Morgan Nguyen,morgan.nguyen@abstergo.com
+Abstergo West,Middle East,IT,Alex Nguyen,alex.nguyen@abstergo.com
+Black Mesa Intl,Middle East,HR,Quinn Brown,quinn.brown@black.com
+Black Mesa East,Middle East,HR,Jordan Nguyen,jordan.nguyen@black.com
+Rapture Central Ltd,Asia,HR,Jamie Lee,jamie.lee@rapture.com
+Rapture Central Solutions,Europe,Operations,Skyler Garcia,skyler.garcia@rapture.com
+Vault-Tec Ltd,North America,IT,Riley Nguyen,riley.nguyen@vault-tec.com
+Vault-Tec LLC,North America,HR,Casey Smith,casey.smith@vault-tec.com
+Blue Sun Corporation Ltd,Middle East,Finance,Taylor Garcia,taylor.garcia@blue.com
+Blue Sun Corporation West,Europe,HR,Skyler Lee,skyler.lee@blue.com
+Cyberlife Group,South America,IT,Skyler Nguyen,skyler.nguyen@cyberlife.com
+Cyberlife,Asia,Operations,Skyler Kim,skyler.kim@cyberlife.com
+Hyperion LLC,North America,Compliance,Jordan Brown,jordan.brown@hyperion.com
+Hyperion Ltd,Europe,IT,Jordan Kim,jordan.kim@hyperion.com
+Aperture Science Intl,Asia,Operations,Casey Davis,casey.davis@aperture.com
+Aperture Science,Asia,IT,Morgan Kim,morgan.kim@aperture.com
+Big MT Services,Middle East,Compliance,Skyler Patel,skyler.patel@big.com
+Big MT,North America,Finance,Taylor Garcia,taylor.garcia@big.com
+Testla Nova,South America,Operations,Jamie Martinez,jamie.martinez@testla.com
+Testla Nova Group,South America,IT,Morgan Nguyen,morgan.nguyen@testla.com
+NeoNet LLC,Asia,Finance,Taylor Smith,taylor.smith@neonet.com
+NeoNet Group,Europe,Operations,Riley Nguyen,riley.nguyen@neonet.com
+Neon Circle,South America,Operations,Alex Davis,alex.davis@neon.com
+Neon Circle LLC,South America,Finance,Jamie Kim,jamie.kim@neon.com
+Chronos Labs Solutions,South America,Operations,Devon Garcia,devon.garcia@chronos.com
+Chronos Labs Intl,Asia,Operations,Taylor Martinez,taylor.martinez@chronos.com
+Ironclad Defense West,Middle East,Finance,Devon Nguyen,devon.nguyen@ironclad.com
+Ironclad Defense East,Middle East,Finance,Taylor Lee,taylor.lee@ironclad.com
+SkyTech Dynamics,South America,HR,Taylor Garcia,taylor.garcia@skytech.com
+SkyTech Dynamics West,Asia,Finance,Alex Brown,alex.brown@skytech.com
+NovaCore Group,Middle East,Operations,Alex Martinez,alex.martinez@novacore.com
+NovaCore,Asia,IT,Jamie Smith,jamie.smith@novacore.com
+Solaris Group Ltd,Middle East,Compliance,Devon Patel,devon.patel@solaris.com
+Solaris Group West,South America,Operations,Morgan Lee,morgan.lee@solaris.com
+Crimson Digital Holdings,North America,HR,Alex Brown,alex.brown@crimson.com
+Crimson Digital,Europe,IT,Riley Kim,riley.kim@crimson.com
+SentryGate Services,North America,Finance,Devon Brown,devon.brown@sentrygate.com
+SentryGate East,North America,HR,Devon Patel,devon.patel@sentrygate.com
+OmniCore Solutions,Asia,Compliance,Jamie Nguyen,jamie.nguyen@omnicore.com
+OmniCore Ltd,Europe,HR,Casey Brown,casey.brown@omnicore.com

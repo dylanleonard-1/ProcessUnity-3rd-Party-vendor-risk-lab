@@ -1,0 +1,101 @@
+Scenario_ID,Scenario_Type,Inject_Type,Risk_Level,MTTR_Range,Exposure_Confirmed,Patch_Available,Notes,Inject_Complexity
+001,Clean Vendor,Escalation Required,Low,30-60,No,,Simulates Clean Vendor scenario with variable outcomes,Basic
+002,Missing Exposure,Missing Field,Low,15-30,No,,Simulates Missing Exposure scenario with variable outcomes,Moderate
+003,Duplicate CVE,Missing Field,Medium,20-45,Yes,Unknown,Simulates Duplicate CVE scenario with variable outcomes,Advanced
+004,Bad Date Format,Special Context,Low,30-60,Pending,,Simulates Bad Date Format scenario with variable outcomes,Extreme
+005,Emerging Risk,Normal,Critical,15-30,Yes,Yes,Simulates Emerging Risk scenario with variable outcomes,Moderate
+006,Inactive Vendor,Escalation Required,Low,30-60,Pending,Unknown,Simulates Inactive Vendor scenario with variable outcomes,Basic
+007,Missing Contact Info,Partial Data,High,10-20,,Yes,Simulates Missing Contact Info scenario with variable outcomes,Moderate
+008,Unknown Patch Status,Format Error,Low,30-60,Pending,,Simulates Unknown Patch Status scenario with variable outcomes,Basic
+009,False Positive,Escalation Required,High,10-20,Pending,Unknown,Simulates False Positive scenario with variable outcomes,Basic
+010,Multi-CVE Vendor,Partial Data,Low,5-10,Pending,,Simulates Multi-CVE Vendor scenario with variable outcomes,Moderate
+011,Delayed Response,Timing Issue,Medium,20-45,Yes,Yes,Simulates Delayed Response scenario with variable outcomes,Extreme
+012,Region-Specific Spike,Timing Issue,Low,15-30,No,Unknown,Simulates Region-Specific Spike scenario with variable outcomes,Advanced
+013,Patch Ignored,Missing Field,Medium,10-20,Pending,,Simulates Patch Ignored scenario with variable outcomes,Advanced
+014,Formatting Chaos,Normal,Medium,20-45,,Unknown,Simulates Formatting Chaos scenario with variable outcomes,Moderate
+015,Extra Fields Present,Possible Noise,Low,5-10,Pending,No,Simulates Extra Fields Present scenario with variable outcomes,Moderate
+016,Unusual Vendor Tier,Special Context,Medium,5-10,Pending,Unknown,Simulates Unusual Vendor Tier scenario with variable outcomes,Basic
+017,Long Exposure Duration,Possible Noise,Critical,15-30,No,Yes,Simulates Long Exposure Duration scenario with variable outcomes,Advanced
+018,Escalated and Ignored,Special Context,Critical,30-60,Pending,,Simulates Escalated and Ignored scenario with variable outcomes,Advanced
+019,Manual Verification Needed,Special Context,High,15-30,Pending,No,Simulates Manual Verification Needed scenario with variable outcomes,Moderate
+020,Suspicious IP Range,Partial Data,Medium,30-60,Yes,Unknown,Simulates Suspicious IP Range scenario with variable outcomes,Moderate
+021,Repeated SLA Breaches,Escalation Required,Medium,20-45,Yes,Unknown,Simulates Repeated SLA Breaches scenario with variable outcomes,Advanced
+022,Conflicting Data Sources,Partial Data,Critical,5-10,,,Simulates Conflicting Data Sources scenario with variable outcomes,Extreme
+023,Corrupted Attachment Link,Special Context,Critical,5-10,Yes,Unknown,Simulates Corrupted Attachment Link scenario with variable outcomes,Moderate
+024,Contact Loop,Normal,High,10-20,No,Yes,Simulates Contact Loop scenario with variable outcomes,Advanced
+025,Risk Spike Detected,Possible Noise,Low,5-10,,,Simulates Risk Spike Detected scenario with variable outcomes,Basic
+026,Red Team Simulation,Format Error,Low,10-20,No,No,Simulates Red Team Simulation scenario with variable outcomes,Advanced
+027,Unexpected LOB Assignment,Format Error,High,30-60,Pending,Yes,Simulates Unexpected LOB Assignment scenario with variable outcomes,Moderate
+028,AI Flagged CVE,Timing Issue,Low,10-20,Pending,Unknown,Simulates AI Flagged CVE scenario with variable outcomes,Moderate
+029,Backdoor Vendor,Special Context,Critical,20-45,No,Yes,Simulates Backdoor Vendor scenario with variable outcomes,Advanced
+030,Non-English Report,Special Context,High,30-60,Pending,Yes,Simulates Non-English Report scenario with variable outcomes,Moderate
+031,Zero-Day Missed,Partial Data,Medium,20-45,No,Yes,Simulates Zero-Day Missed scenario with variable outcomes,Basic
+032,Ghost Vendor,Duplicate Entry,Critical,30-60,Pending,Unknown,Simulates Ghost Vendor scenario with variable outcomes,Advanced
+033,Fake Positive,Timing Issue,Low,30-60,No,Yes,Simulates Fake Positive scenario with variable outcomes,Advanced
+034,Same Day CVE Flood,Normal,High,10-20,Pending,No,Simulates Same Day CVE Flood scenario with variable outcomes,Advanced
+035,Exploit POC Found,Duplicate Entry,Medium,5-10,Yes,Yes,Simulates Exploit POC Found scenario with variable outcomes,Basic
+036,Cloud-Based Exposure,Missing Field,Medium,5-10,Pending,,Simulates Cloud-Based Exposure scenario with variable outcomes,Basic
+037,Outdated Info,Possible Noise,Critical,15-30,,Unknown,Simulates Outdated Info scenario with variable outcomes,Basic
+038,Abandoned System,Partial Data,Critical,5-10,No,,Simulates Abandoned System scenario with variable outcomes,Extreme
+039,Manual Process Delay,Format Error,Critical,10-20,Yes,Yes,Simulates Manual Process Delay scenario with variable outcomes,Advanced
+040,Email Bounce,Duplicate Entry,Medium,10-20,Pending,No,Simulates Email Bounce scenario with variable outcomes,Extreme
+041,Wrong Contact Name,Timing Issue,Critical,10-20,Yes,Yes,Simulates Wrong Contact Name scenario with variable outcomes,Extreme
+042,Late Patch Deployment,Missing Field,Low,5-10,Pending,,Simulates Late Patch Deployment scenario with variable outcomes,Moderate
+043,Old CVE Reopened,Special Context,High,30-60,Yes,,Simulates Old CVE Reopened scenario with variable outcomes,Extreme
+044,Multi-Region Vendor,Escalation Required,Critical,30-60,Pending,,Simulates Multi-Region Vendor scenario with variable outcomes,Advanced
+045,VPN Exposure,Timing Issue,Critical,30-60,Pending,,Simulates VPN Exposure scenario with variable outcomes,Advanced
+046,Abnormal Port Access,Timing Issue,Low,10-20,Yes,,Simulates Abnormal Port Access scenario with variable outcomes,Basic
+047,Threat Actor Mention,Duplicate Entry,Critical,15-30,,Yes,Simulates Threat Actor Mention scenario with variable outcomes,Advanced
+048,Threat Feed Conflict,Possible Noise,Low,5-10,Pending,No,Simulates Threat Feed Conflict scenario with variable outcomes,Basic
+049,No CVSS Score,Special Context,High,10-20,Yes,,Simulates No CVSS Score scenario with variable outcomes,Moderate
+050,Hardcoded Creds Detected,Format Error,Medium,20-45,No,Yes,Simulates Hardcoded Creds Detected scenario with variable outcomes,Moderate
+051,Log Injection Detected,Normal,Low,5-10,,,Simulates Log Injection Detected scenario with variable outcomes,Basic
+052,Same Day CVE Flood Variant 3,Format Error,Low,15-30,No,Unknown,Simulates Same Day CVE Flood Variant 3 scenario with variable outcomes,Basic
+053,Missing Exposure Variant 3,Missing Field,Medium,15-30,Pending,,Simulates Missing Exposure Variant 3 scenario with variable outcomes,Moderate
+054,Late Patch Deployment Variant 3,Partial Data,Low,15-30,No,Unknown,Simulates Late Patch Deployment Variant 3 scenario with variable outcomes,Moderate
+055,Red Team Simulation Variant 1,Possible Noise,High,20-45,Pending,Unknown,Simulates Red Team Simulation Variant 1 scenario with variable outcomes,Basic
+056,Email Bounce Variant 1,Missing Field,Medium,5-10,No,Yes,Simulates Email Bounce Variant 1 scenario with variable outcomes,Advanced
+057,Conflicting Data Sources Variant 1,Partial Data,Critical,10-20,Pending,No,Simulates Conflicting Data Sources Variant 1 scenario with variable outcomes,Extreme
+058,Formatting Chaos Variant 1,Duplicate Entry,Critical,5-10,Yes,,Simulates Formatting Chaos Variant 1 scenario with variable outcomes,Basic
+059,Repeated SLA Breaches Variant 3,Special Context,Medium,10-20,,,Simulates Repeated SLA Breaches Variant 3 scenario with variable outcomes,Advanced
+060,Unknown Patch Status Variant 1,Format Error,Medium,20-45,Pending,Unknown,Simulates Unknown Patch Status Variant 1 scenario with variable outcomes,Extreme
+061,Formatting Chaos Variant 1 Variant 3,Timing Issue,Medium,30-60,Pending,,Simulates Formatting Chaos Variant 1 Variant 3 scenario with variable outcomes,Basic
+062,Unexpected LOB Assignment Variant 2,Timing Issue,Critical,20-45,,No,Simulates Unexpected LOB Assignment Variant 2 scenario with variable outcomes,Extreme
+063,Manual Verification Needed Variant 2,Special Context,Medium,30-60,Pending,,Simulates Manual Verification Needed Variant 2 scenario with variable outcomes,Basic
+064,Threat Feed Conflict Variant 1,Escalation Required,High,10-20,No,,Simulates Threat Feed Conflict Variant 1 scenario with variable outcomes,Advanced
+065,Risk Spike Detected Variant 3,Escalation Required,Low,10-20,Yes,Yes,Simulates Risk Spike Detected Variant 3 scenario with variable outcomes,Basic
+066,Threat Actor Mention Variant 1,Escalation Required,Critical,10-20,,No,Simulates Threat Actor Mention Variant 1 scenario with variable outcomes,Moderate
+067,Inactive Vendor Variant 2,Timing Issue,Medium,10-20,No,No,Simulates Inactive Vendor Variant 2 scenario with variable outcomes,Basic
+068,Log Injection Detected Variant 3,Escalation Required,Medium,15-30,No,,Simulates Log Injection Detected Variant 3 scenario with variable outcomes,Moderate
+069,Threat Actor Mention Variant 3,Format Error,Low,30-60,Yes,Yes,Simulates Threat Actor Mention Variant 3 scenario with variable outcomes,Moderate
+070,Extra Fields Present Variant 3,Missing Field,Critical,15-30,No,Unknown,Simulates Extra Fields Present Variant 3 scenario with variable outcomes,Extreme
+071,Extra Fields Present Variant 3 Variant 3,Possible Noise,Medium,20-45,Yes,Unknown,Simulates Extra Fields Present Variant 3 Variant 3 scenario with variable outcomes,Moderate
+072,Outdated Info Variant 1,Normal,High,30-60,Yes,,Simulates Outdated Info Variant 1 scenario with variable outcomes,Basic
+073,Email Bounce Variant 1 Variant 1,Special Context,Medium,30-60,No,No,Simulates Email Bounce Variant 1 Variant 1 scenario with variable outcomes,Advanced
+074,Same Day CVE Flood Variant 1,Format Error,Low,10-20,Yes,,Simulates Same Day CVE Flood Variant 1 scenario with variable outcomes,Extreme
+075,Threat Actor Mention Variant 3 Variant 2,Special Context,Medium,20-45,Pending,Yes,Simulates Threat Actor Mention Variant 3 Variant 2 scenario with variable outcomes,Moderate
+076,Late Patch Deployment Variant 3 Variant 2,Timing Issue,Critical,10-20,,No,Simulates Late Patch Deployment Variant 3 Variant 2 scenario with variable outcomes,Extreme
+077,Abnormal Port Access Variant 2,Special Context,Medium,15-30,Yes,Yes,Simulates Abnormal Port Access Variant 2 scenario with variable outcomes,Extreme
+078,Abnormal Port Access Variant 2 Variant 2,Escalation Required,High,10-20,Pending,No,Simulates Abnormal Port Access Variant 2 Variant 2 scenario with variable outcomes,Moderate
+079,Formatting Chaos Variant 3,Format Error,Low,10-20,Yes,Unknown,Simulates Formatting Chaos Variant 3 scenario with variable outcomes,Extreme
+080,Fake Positive Variant 2,Timing Issue,Low,20-45,Yes,,Simulates Fake Positive Variant 2 scenario with variable outcomes,Extreme
+081,Abnormal Port Access Variant 2 Variant 2 Variant 1,Partial Data,High,20-45,No,No,Simulates Abnormal Port Access Variant 2 Variant 2 Variant 1 scenario with variable outcomes,Basic
+082,Multi-CVE Vendor Variant 3,Escalation Required,High,15-30,,No,Simulates Multi-CVE Vendor Variant 3 scenario with variable outcomes,Extreme
+083,Missing Contact Info Variant 1,Escalation Required,High,15-30,Pending,Yes,Simulates Missing Contact Info Variant 1 scenario with variable outcomes,Basic
+084,Abnormal Port Access Variant 3,Normal,High,15-30,,Unknown,Simulates Abnormal Port Access Variant 3 scenario with variable outcomes,Extreme
+085,Risk Spike Detected Variant 2,Normal,Low,30-60,No,,Simulates Risk Spike Detected Variant 2 scenario with variable outcomes,Advanced
+086,Extra Fields Present Variant 3 Variant 3 Variant 3,Special Context,Low,20-45,Yes,,Simulates Extra Fields Present Variant 3 Variant 3 Variant 3 scenario with variable outcomes,Advanced
+087,Email Bounce Variant 1 Variant 1 Variant 2,Escalation Required,Critical,20-45,No,No,Simulates Email Bounce Variant 1 Variant 1 Variant 2 scenario with variable outcomes,Basic
+088,Formatting Chaos Variant 2,Normal,Medium,10-20,,Unknown,Simulates Formatting Chaos Variant 2 scenario with variable outcomes,Advanced
+089,Inactive Vendor Variant 2 Variant 3,Duplicate Entry,High,15-30,No,,Simulates Inactive Vendor Variant 2 Variant 3 scenario with variable outcomes,Advanced
+090,Same Day CVE Flood Variant 3 Variant 2,Partial Data,Medium,15-30,Pending,,Simulates Same Day CVE Flood Variant 3 Variant 2 scenario with variable outcomes,Moderate
+091,Long Exposure Duration Variant 1,Format Error,Medium,15-30,No,,Simulates Long Exposure Duration Variant 1 scenario with variable outcomes,Moderate
+092,Long Exposure Duration Variant 1 Variant 3,Duplicate Entry,Low,5-10,,No,Simulates Long Exposure Duration Variant 1 Variant 3 scenario with variable outcomes,Extreme
+093,Abnormal Port Access Variant 1,Normal,High,5-10,Yes,Unknown,Simulates Abnormal Port Access Variant 1 scenario with variable outcomes,Advanced
+094,Email Bounce Variant 1 Variant 1 Variant 2 Variant 2,Normal,Low,10-20,Yes,No,Simulates Email Bounce Variant 1 Variant 1 Variant 2 Variant 2 scenario with variable outcomes,Extreme
+095,Risk Spike Detected Variant 2 Variant 1,Format Error,Critical,20-45,No,,Simulates Risk Spike Detected Variant 2 Variant 1 scenario with variable outcomes,Moderate
+096,Backdoor Vendor Variant 2,Duplicate Entry,Critical,5-10,Pending,No,Simulates Backdoor Vendor Variant 2 scenario with variable outcomes,Basic
+097,VPN Exposure Variant 3,Special Context,Low,10-20,Pending,Yes,Simulates VPN Exposure Variant 3 scenario with variable outcomes,Advanced
+098,Non-English Report Variant 2,Duplicate Entry,Critical,15-30,Pending,Yes,Simulates Non-English Report Variant 2 scenario with variable outcomes,Advanced
+099,Manual Process Delay Variant 3,Possible Noise,Low,5-10,Yes,Yes,Simulates Manual Process Delay Variant 3 scenario with variable outcomes,Moderate
+100,Multi-Region Vendor Variant 1,Format Error,Critical,5-10,,Unknown,Simulates Multi-Region Vendor Variant 1 scenario with variable outcomes,Extreme

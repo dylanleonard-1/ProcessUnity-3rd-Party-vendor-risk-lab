@@ -1,0 +1,30 @@
+Subject: Vulnerability Alert – Immediate Action Required
+
+Dear [Vendor Contact Name],
+
+We are reaching out on behalf of [Your Company]'s cybersecurity team to inform you that our monitoring has identified one or more critical vulnerabilities associated with your organization’s services or infrastructure.
+
+These vulnerabilities pose a potential risk to [Your Company] operations and may require immediate remediation depending on your exposure status.
+
+**Summary of Findings:**
+- Vendor: [Vendor Name]
+- CVE(s): [List of CVEs]
+- Risk Level: [Medium/High/Critical]
+- Patch Available: [Yes/No]
+- Exposure Confirmed: [Yes/No or Pending]
+
+**Requested Action:**
+Please confirm receipt of this alert and respond within **5 business days** with:
+1. Confirmation of exposure status (affected or unaffected)
+2. Current remediation efforts and/or patching plan
+3. Any additional risk mitigation details or artifacts
+
+If this alert was sent to the incorrect contact, please advise or redirect us to the appropriate recipient.
+
+We appreciate your timely cooperation in helping maintain a secure and trusted relationship between our organizations.
+
+Sincerely,  
+[Your Name]  
+Third-Party Cyber Risk Analyst  
+[Your Company] | [Your Email]
+

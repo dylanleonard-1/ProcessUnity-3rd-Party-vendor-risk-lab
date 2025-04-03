@@ -1,0 +1,28 @@
+Subject: Reminder – Open Vulnerability Alert Pending Your Response
+
+Dear [Vendor Contact Name],
+
+This is a follow-up regarding our previous communication dated [Previous Contact Date] concerning vulnerabilities linked to your organization’s services.
+
+As of today, we have not received a formal update on your exposure status or mitigation plans. Please see the original alert summary below:
+
+**Vulnerability Summary:**
+- Vendor: [Vendor Name]
+- CVE(s): [List of CVEs]
+- Risk Level: [Medium/High/Critical]
+- Patch Available: [Yes/No]
+- Exposure Status: [Unknown/Pending Confirmation]
+
+**Next Steps:**
+To maintain our shared security posture, please provide an update within **2–3 business days** including:
+1. Confirmation of vulnerability exposure (affected/unaffected)
+2. Timeline for remediation or patching (if applicable)
+3. Any supporting documentation (e.g., mitigation report, attestation)
+
+We appreciate your partnership and look forward to resolving this quickly. Please do not hesitate to reach out with questions or clarification.
+
+Best regards,  
+[Your Name]  
+Cybersecurity Risk Analyst  
+[Your Company] | [Your Email]
+

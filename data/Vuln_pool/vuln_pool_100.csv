@@ -1,0 +1,101 @@
+Vuln_ID,Title,Description,Affected_Product,CVSS_Score,Exploit_Available,Date_Published,Patch_Status,Exploit_Type,Source_File
+CVE-2025-30100,Exploit Variant 0,This is a simulated description of vulnerability number 0.,Product_Z5,5.3,Yes,2024-04-15,Not Available,XSS,521100.py
+CVE-2025-30101,Exploit Variant 1,This is a simulated description of vulnerability number 1.,Product_Y4,7.9,Yes,2024-10-28,Not Available,LFI,521101.py
+CVE-2025-30102,Exploit Variant 2,This is a simulated description of vulnerability number 2.,Product_Y2,7.6,No,2024-09-18,Unknown,RCE,521102.py
+CVE-2025-30103,Exploit Variant 3,This is a simulated description of vulnerability number 3.,Product_Z1,5.4,Yes,2024-08-24,Available,Privilege Escalation,521103.py
+CVE-2025-30104,Exploit Variant 4,This is a simulated description of vulnerability number 4.,Product_Z1,5.8,No,2025-02-10,Unknown,RCE,521104.py
+CVE-2025-30105,Exploit Variant 5,This is a simulated description of vulnerability number 5.,Product_X3,9.6,No,2024-09-15,Unknown,SQLi,521105.py
+CVE-2025-30106,Exploit Variant 6,This is a simulated description of vulnerability number 6.,Product_X3,7.6,No,2025-02-24,Available,XSS,521106.py
+CVE-2025-30107,Exploit Variant 7,This is a simulated description of vulnerability number 7.,Product_Z3,9.3,No,2025-02-28,Not Available,XSS,521107.py
+CVE-2025-30108,Exploit Variant 8,This is a simulated description of vulnerability number 8.,Product_Z2,5.4,No,2025-03-19,Not Available,LFI,521108.py
+CVE-2025-30109,Exploit Variant 9,This is a simulated description of vulnerability number 9.,Product_Z5,9.2,Yes,2024-06-07,Available,SQLi,521109.py
+CVE-2025-30110,Exploit Variant 10,This is a simulated description of vulnerability number 10.,Product_Y4,5.9,No,2024-12-27,Available,LFI,521110.py
+CVE-2025-30111,Exploit Variant 11,This is a simulated description of vulnerability number 11.,Product_Z1,7.3,Yes,2024-05-21,Available,Privilege Escalation,521111.py
+CVE-2025-30112,Exploit Variant 12,This is a simulated description of vulnerability number 12.,Product_Z5,7.0,No,2024-10-01,Available,Privilege Escalation,521112.py
+CVE-2025-30113,Exploit Variant 13,This is a simulated description of vulnerability number 13.,Product_Z4,8.3,Yes,2024-10-07,Available,RCE,521113.py
+CVE-2025-30114,Exploit Variant 14,This is a simulated description of vulnerability number 14.,Product_Y1,5.1,Yes,2024-05-18,Available,LFI,521114.py
+CVE-2025-30115,Exploit Variant 15,This is a simulated description of vulnerability number 15.,Product_X5,8.7,Yes,2024-06-30,Available,XSS,521115.py
+CVE-2025-30116,Exploit Variant 16,This is a simulated description of vulnerability number 16.,Product_Z2,9.5,Yes,2024-04-10,Not Available,Privilege Escalation,521116.py
+CVE-2025-30117,Exploit Variant 17,This is a simulated description of vulnerability number 17.,Product_X4,8.2,Yes,2024-12-19,Available,SQLi,521117.py
+CVE-2025-30118,Exploit Variant 18,This is a simulated description of vulnerability number 18.,Product_X5,7.3,Yes,2024-04-03,Available,Privilege Escalation,521118.py
+CVE-2025-30119,Exploit Variant 19,This is a simulated description of vulnerability number 19.,Product_X1,6.4,Yes,2024-12-03,Not Available,Privilege Escalation,521119.py
+CVE-2025-3100,Exploit Variant 7 Clone 0,This is a simulated description of vulnerability number 7.,Product_Z3,8.4,No,2024-06-27,Not Available,XSS,auto_0.py
+CVE-2025-3101,Exploit Variant 4 Clone 1,This is a simulated description of vulnerability number 4.,Product_Z1,6.1,No,2024-10-20,Unknown,RCE,auto_1.py
+CVE-2025-3102,Exploit Variant 13 Clone 2,This is a simulated description of vulnerability number 13.,Product_Z4,8.3,Yes,2025-02-25,Available,RCE,auto_2.py
+CVE-2025-3103,Exploit Variant 6 Clone 3,This is a simulated description of vulnerability number 6.,Product_X3,8.5,No,2024-11-18,Available,XSS,auto_3.py
+CVE-2025-3104,Exploit Variant 19 Clone 4,This is a simulated description of vulnerability number 19.,Product_X1,6.1,Yes,2024-04-04,Not Available,Privilege Escalation,auto_4.py
+CVE-2025-3105,Exploit Variant 1 Clone 5,This is a simulated description of vulnerability number 1.,Product_Y4,8.5,Yes,2025-03-05,Not Available,LFI,auto_5.py
+CVE-2025-3106,Exploit Variant 7 Clone 6,This is a simulated description of vulnerability number 7.,Product_Z3,10.0,No,2024-08-18,Not Available,XSS,auto_6.py
+CVE-2025-3107,Exploit Variant 13 Clone 7,This is a simulated description of vulnerability number 13.,Product_Z4,7.7,Yes,2024-06-26,Available,RCE,auto_7.py
+CVE-2025-3108,Exploit Variant 9 Clone 8,This is a simulated description of vulnerability number 9.,Product_Z5,8.9,Yes,2024-08-31,Available,SQLi,auto_8.py
+CVE-2025-3109,Exploit Variant 15 Clone 9,This is a simulated description of vulnerability number 15.,Product_X5,7.9,Yes,2025-01-12,Available,XSS,auto_9.py
+CVE-2025-3110,Exploit Variant 14 Clone 10,This is a simulated description of vulnerability number 14.,Product_Y1,6.0,Yes,2024-12-30,Available,LFI,auto_10.py
+CVE-2025-3111,Exploit Variant 8 Clone 11,This is a simulated description of vulnerability number 8.,Product_Z2,4.6,No,2024-10-20,Not Available,LFI,auto_11.py
+CVE-2025-3112,Exploit Variant 9 Clone 12,This is a simulated description of vulnerability number 9.,Product_Z5,8.6,Yes,2024-06-17,Available,SQLi,auto_12.py
+CVE-2025-3113,Exploit Variant 15 Clone 13,This is a simulated description of vulnerability number 15.,Product_X5,8.5,Yes,2024-08-19,Available,XSS,auto_13.py
+CVE-2025-3114,Exploit Variant 13 Clone 14,This is a simulated description of vulnerability number 13.,Product_Z4,9.1,Yes,2024-04-06,Available,RCE,auto_14.py
+CVE-2025-3115,Exploit Variant 6 Clone 15,This is a simulated description of vulnerability number 6.,Product_X3,6.7,No,2025-02-25,Available,XSS,auto_15.py
+CVE-2025-3116,Exploit Variant 18 Clone 16,This is a simulated description of vulnerability number 18.,Product_X5,7.8,Yes,2024-04-05,Available,Privilege Escalation,auto_16.py
+CVE-2025-3117,Exploit Variant 8 Clone 17,This is a simulated description of vulnerability number 8.,Product_Z2,5.3,No,2024-10-16,Not Available,LFI,auto_17.py
+CVE-2025-3118,Exploit Variant 16 Clone 18,This is a simulated description of vulnerability number 16.,Product_Z2,10.0,Yes,2024-06-04,Not Available,Privilege Escalation,auto_18.py
+CVE-2025-3119,Exploit Variant 12 Clone 19,This is a simulated description of vulnerability number 12.,Product_Z5,7.3,No,2024-12-03,Available,Privilege Escalation,auto_19.py
+CVE-2025-3120,Exploit Variant 1 Clone 20,This is a simulated description of vulnerability number 1.,Product_Y4,7.0,Yes,2024-12-31,Not Available,LFI,auto_20.py
+CVE-2025-3121,Exploit Variant 7 Clone 21,This is a simulated description of vulnerability number 7.,Product_Z3,9.1,No,2024-07-19,Not Available,XSS,auto_21.py
+CVE-2025-3122,Exploit Variant 18 Clone 22,This is a simulated description of vulnerability number 18.,Product_X5,7.7,Yes,2025-01-30,Available,Privilege Escalation,auto_22.py
+CVE-2025-3123,Exploit Variant 8 Clone 23,This is a simulated description of vulnerability number 8.,Product_Z2,4.5,No,2024-05-04,Not Available,LFI,auto_23.py
+CVE-2025-3124,Exploit Variant 9 Clone 24,This is a simulated description of vulnerability number 9.,Product_Z5,10.0,Yes,2024-07-19,Available,SQLi,auto_24.py
+CVE-2025-3125,Exploit Variant 7 Clone 25,This is a simulated description of vulnerability number 7.,Product_Z3,9.6,No,2024-10-07,Not Available,XSS,auto_25.py
+CVE-2025-3126,Exploit Variant 0 Clone 26,This is a simulated description of vulnerability number 0.,Product_Z5,6.2,Yes,2024-10-06,Not Available,XSS,auto_26.py
+CVE-2025-3127,Exploit Variant 19 Clone 27,This is a simulated description of vulnerability number 19.,Product_X1,6.4,Yes,2025-02-03,Not Available,Privilege Escalation,auto_27.py
+CVE-2025-3128,Exploit Variant 4 Clone 28,This is a simulated description of vulnerability number 4.,Product_Z1,5.9,No,2025-02-14,Unknown,RCE,auto_28.py
+CVE-2025-3129,Exploit Variant 3 Clone 29,This is a simulated description of vulnerability number 3.,Product_Z1,5.5,Yes,2024-11-26,Available,Privilege Escalation,auto_29.py
+CVE-2025-3130,Exploit Variant 10 Clone 30,This is a simulated description of vulnerability number 10.,Product_Y4,5.5,No,2024-05-02,Available,LFI,auto_30.py
+CVE-2025-3131,Exploit Variant 11 Clone 31,This is a simulated description of vulnerability number 11.,Product_Z1,6.9,Yes,2024-11-21,Available,Privilege Escalation,auto_31.py
+CVE-2025-3132,Exploit Variant 4 Clone 32,This is a simulated description of vulnerability number 4.,Product_Z1,6.4,No,2024-04-03,Unknown,RCE,auto_32.py
+CVE-2025-3133,Exploit Variant 17 Clone 33,This is a simulated description of vulnerability number 17.,Product_X4,8.6,Yes,2024-07-09,Available,SQLi,auto_33.py
+CVE-2025-3134,Exploit Variant 8 Clone 34,This is a simulated description of vulnerability number 8.,Product_Z2,6.0,No,2025-03-23,Not Available,LFI,auto_34.py
+CVE-2025-3135,Exploit Variant 18 Clone 35,This is a simulated description of vulnerability number 18.,Product_X5,7.6,Yes,2024-07-05,Available,Privilege Escalation,auto_35.py
+CVE-2025-3136,Exploit Variant 18 Clone 36,This is a simulated description of vulnerability number 18.,Product_X5,7.8,Yes,2024-10-11,Available,Privilege Escalation,auto_36.py
+CVE-2025-3137,Exploit Variant 15 Clone 37,This is a simulated description of vulnerability number 15.,Product_X5,8.3,Yes,2024-05-13,Available,XSS,auto_37.py
+CVE-2025-3138,Exploit Variant 15 Clone 38,This is a simulated description of vulnerability number 15.,Product_X5,8.1,Yes,2025-02-12,Available,XSS,auto_38.py
+CVE-2025-3139,Exploit Variant 14 Clone 39,This is a simulated description of vulnerability number 14.,Product_Y1,4.7,Yes,2024-05-27,Available,LFI,auto_39.py
+CVE-2025-3140,Exploit Variant 3 Clone 40,This is a simulated description of vulnerability number 3.,Product_Z1,6.3,Yes,2024-10-13,Available,Privilege Escalation,auto_40.py
+CVE-2025-3141,Exploit Variant 1 Clone 41,This is a simulated description of vulnerability number 1.,Product_Y4,7.1,Yes,2024-10-18,Not Available,LFI,auto_41.py
+CVE-2025-3142,Exploit Variant 12 Clone 42,This is a simulated description of vulnerability number 12.,Product_Z5,6.0,No,2025-01-26,Available,Privilege Escalation,auto_42.py
+CVE-2025-3143,Exploit Variant 6 Clone 43,This is a simulated description of vulnerability number 6.,Product_X3,6.9,No,2024-08-27,Available,XSS,auto_43.py
+CVE-2025-3144,Exploit Variant 19 Clone 44,This is a simulated description of vulnerability number 19.,Product_X1,5.4,Yes,2024-12-15,Not Available,Privilege Escalation,auto_44.py
+CVE-2025-3145,Exploit Variant 4 Clone 45,This is a simulated description of vulnerability number 4.,Product_Z1,6.7,No,2025-03-27,Unknown,RCE,auto_45.py
+CVE-2025-3146,Exploit Variant 13 Clone 46,This is a simulated description of vulnerability number 13.,Product_Z4,8.2,Yes,2025-01-25,Available,RCE,auto_46.py
+CVE-2025-3147,Exploit Variant 14 Clone 47,This is a simulated description of vulnerability number 14.,Product_Y1,5.8,Yes,2025-01-14,Available,LFI,auto_47.py
+CVE-2025-3148,Exploit Variant 11 Clone 48,This is a simulated description of vulnerability number 11.,Product_Z1,7.4,Yes,2024-07-09,Available,Privilege Escalation,auto_48.py
+CVE-2025-3149,Exploit Variant 7 Clone 49,This is a simulated description of vulnerability number 7.,Product_Z3,8.9,No,2024-04-21,Not Available,XSS,auto_49.py
+CVE-2025-3150,Exploit Variant 0 Clone 50,This is a simulated description of vulnerability number 0.,Product_Z5,6.2,Yes,2024-12-09,Not Available,XSS,auto_50.py
+CVE-2025-3151,Exploit Variant 6 Clone 51,This is a simulated description of vulnerability number 6.,Product_X3,6.7,No,2024-12-05,Available,XSS,auto_51.py
+CVE-2025-3152,Exploit Variant 18 Clone 52,This is a simulated description of vulnerability number 18.,Product_X5,6.8,Yes,2024-07-29,Available,Privilege Escalation,auto_52.py
+CVE-2025-3153,Exploit Variant 3 Clone 53,This is a simulated description of vulnerability number 3.,Product_Z1,5.0,Yes,2025-01-02,Available,Privilege Escalation,auto_53.py
+CVE-2025-3154,Exploit Variant 12 Clone 54,This is a simulated description of vulnerability number 12.,Product_Z5,6.8,No,2024-11-15,Available,Privilege Escalation,auto_54.py
+CVE-2025-3155,Exploit Variant 0 Clone 55,This is a simulated description of vulnerability number 0.,Product_Z5,4.4,Yes,2024-05-29,Not Available,XSS,auto_55.py
+CVE-2025-3156,Exploit Variant 14 Clone 56,This is a simulated description of vulnerability number 14.,Product_Y1,5.7,Yes,2024-04-14,Available,LFI,auto_56.py
+CVE-2025-3157,Exploit Variant 6 Clone 57,This is a simulated description of vulnerability number 6.,Product_X3,7.7,No,2024-05-06,Available,XSS,auto_57.py
+CVE-2025-3158,Exploit Variant 13 Clone 58,This is a simulated description of vulnerability number 13.,Product_Z4,8.2,Yes,2024-09-09,Available,RCE,auto_58.py
+CVE-2025-3159,Exploit Variant 18 Clone 59,This is a simulated description of vulnerability number 18.,Product_X5,7.4,Yes,2025-01-22,Available,Privilege Escalation,auto_59.py
+CVE-2025-3160,Exploit Variant 2 Clone 60,This is a simulated description of vulnerability number 2.,Product_Y2,8.3,No,2024-05-27,Unknown,RCE,auto_60.py
+CVE-2025-3161,Exploit Variant 12 Clone 61,This is a simulated description of vulnerability number 12.,Product_Z5,6.9,No,2024-11-23,Available,Privilege Escalation,auto_61.py
+CVE-2025-3162,Exploit Variant 10 Clone 62,This is a simulated description of vulnerability number 10.,Product_Y4,5.2,No,2024-06-01,Available,LFI,auto_62.py
+CVE-2025-3163,Exploit Variant 4 Clone 63,This is a simulated description of vulnerability number 4.,Product_Z1,5.2,No,2024-06-23,Unknown,RCE,auto_63.py
+CVE-2025-3164,Exploit Variant 10 Clone 64,This is a simulated description of vulnerability number 10.,Product_Y4,6.7,No,2024-08-07,Available,LFI,auto_64.py
+CVE-2025-3165,Exploit Variant 6 Clone 65,This is a simulated description of vulnerability number 6.,Product_X3,8.2,No,2025-01-20,Available,XSS,auto_65.py
+CVE-2025-3166,Exploit Variant 19 Clone 66,This is a simulated description of vulnerability number 19.,Product_X1,6.2,Yes,2024-07-27,Not Available,Privilege Escalation,auto_66.py
+CVE-2025-3167,Exploit Variant 4 Clone 67,This is a simulated description of vulnerability number 4.,Product_Z1,6.6,No,2024-07-03,Unknown,RCE,auto_67.py
+CVE-2025-3168,Exploit Variant 4 Clone 68,This is a simulated description of vulnerability number 4.,Product_Z1,5.5,No,2024-12-15,Unknown,RCE,auto_68.py
+CVE-2025-3169,Exploit Variant 13 Clone 69,This is a simulated description of vulnerability number 13.,Product_Z4,8.5,Yes,2024-10-10,Available,RCE,auto_69.py
+CVE-2025-3170,Exploit Variant 17 Clone 70,This is a simulated description of vulnerability number 17.,Product_X4,7.5,Yes,2024-09-21,Available,SQLi,auto_70.py
+CVE-2025-3171,Exploit Variant 5 Clone 71,This is a simulated description of vulnerability number 5.,Product_X3,8.6,No,2025-03-23,Unknown,SQLi,auto_71.py
+CVE-2025-3172,Exploit Variant 18 Clone 72,This is a simulated description of vulnerability number 18.,Product_X5,7.1,Yes,2024-09-06,Available,Privilege Escalation,auto_72.py
+CVE-2025-3173,Exploit Variant 6 Clone 73,This is a simulated description of vulnerability number 6.,Product_X3,8.0,No,2025-03-20,Available,XSS,auto_73.py
+CVE-2025-3174,Exploit Variant 18 Clone 74,This is a simulated description of vulnerability number 18.,Product_X5,7.3,Yes,2024-08-29,Available,Privilege Escalation,auto_74.py
+CVE-2025-3175,Exploit Variant 12 Clone 75,This is a simulated description of vulnerability number 12.,Product_Z5,6.0,No,2024-11-17,Available,Privilege Escalation,auto_75.py
+CVE-2025-3176,Exploit Variant 15 Clone 76,This is a simulated description of vulnerability number 15.,Product_X5,7.7,Yes,2024-12-23,Available,XSS,auto_76.py
+CVE-2025-3177,Exploit Variant 14 Clone 77,This is a simulated description of vulnerability number 14.,Product_Y1,6.0,Yes,2024-09-11,Available,LFI,auto_77.py
+CVE-2025-3178,Exploit Variant 12 Clone 78,This is a simulated description of vulnerability number 12.,Product_Z5,6.6,No,2024-11-09,Available,Privilege Escalation,auto_78.py
+CVE-2025-3179,Exploit Variant 14 Clone 79,This is a simulated description of vulnerability number 14.,Product_Y1,5.6,Yes,2024-11-28,Available,LFI,auto_79.py
