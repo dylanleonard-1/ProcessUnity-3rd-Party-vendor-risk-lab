@@ -136,6 +136,30 @@ Splunk is used to **simulate real-time ingestion and alerting**, like you'd do w
 
 ---
 
+---
+
+## 📊 Why Dashboards Matter
+
+Dashboards aren't just visuals — they're your **control center**.
+
+In real-world GRC workflows (like in **ProcessUnity**), dashboards help you:
+
+- 🔎 Instantly identify vendors with critical vulnerabilities
+- 🚩 Detect SLA breaches, patch delays, or missing contact info
+- 📧 Prioritize outreach based on region, severity, or exposure
+- ⏳ Track remediation timelines and vendor engagement
+
+> Think of dashboards as **triage + escalation control** for third-party risk — and this lab mirrors that logic.
+
+Whether you're using Power BI, Splunk, or SOAR widgets, this simulation gives you export-ready CSVs and mapped fields like:
+
+- `Risk_Level`, `Patch_Available`, `Exposure_Confirmed`, `Days_Since_Last_Contact`
+
+🔗 [See Dashboard Strategy & Examples →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/dashboard_guide.md)
+
+---
+
+
 ### 🧩 ProcessUnity Compatibility
 
 This lab reflects the same lifecycle found in ProcessUnity workflows:
