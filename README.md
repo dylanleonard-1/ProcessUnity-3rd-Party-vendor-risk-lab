@@ -35,10 +35,10 @@
 - [🎯 What This Is](#-what-this-is)
 - [🚀 Key Features](#-key-features)
 - [📂 Folder Structure](#-folder-structure)
-- [⚙️ How It Works: The Flow of Data](#-how-it-works-the-flow-of-data)
+- [⚙️ How CVEGenX Works: The Flow of Data](#-how-CVEGenX-works-the-flow-of-data)
 - [📸 Mock Inject Sample](#-mock-inject-sample)
 - [📊 Excel + DAX Practice](#-excel--dax-practice)
-- [🚨 The Excel Simulation Engine (⚙️ Highlighted)](#-the-excel-simulation-engine--what-youd-do-in-excel--done-in-seconds)
+- [🚨 DaxForge The Excel Simulation Engine (⚙️ Highlighted)](#-the-excel-simulation-engine--what-youd-do-in-excel--done-in-seconds)
 - [💡 Why It Matters](#-why-it-matters)
 - [🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment](#-dashboards-power-bi-splunk--processunity-alignment)
 - [📊 Why Dashboards Matter](#-why-dashboards-matter)
@@ -117,13 +117,13 @@ vendor-risk-lab/
 
 ---
 
-## ⚙️ How It Works: The Flow of Data
+## ⚙️ How CVEGenX Works: The Flow of Data
 
-Everything in this lab begins with **the Engine** — a custom Python system that automates how vendor risk data is created, enriched, and formatted for analysis.
+Everything in this lab begins with **CVEGenX** — a custom Python system that automates how vendor risk data is created, enriched, and formatted for analysis.
 
 > 🔧 It mimics what an analyst would manually do in Excel or inside ProcessUnity dashboards — but in seconds.
 
-### 🧬 The Engine Performs:
+### 🧬 The CVEGenX Performs:
 - Randomized selection of vendors + fake CVEs
 - Controlled data mutations: missing contact info, duplicate CVEs, patch delay flags
 - Auto-tagging for fields like `Risk_Level`, `Exposure_Confirmed`, `Inject_Complexity`
@@ -142,7 +142,7 @@ bash scripts/auto_enrich.sh
 ```
 
 🧠 See behind-the-scenes logic here:  
-🔗 [Engine Breakdown →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/README.md)
+🔗 [CVEGenX Breakdown →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/README.md)
 
 ---
 
