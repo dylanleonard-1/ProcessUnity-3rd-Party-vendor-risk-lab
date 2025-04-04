@@ -267,6 +267,9 @@ In ProcessUnity or Power BI, they let you:
 
 By mimicking ProcessUnity lifecycle steps, this lab builds transferable skills for live GRC platforms.
 
+🔗 [Learn more about how this lab aligns with ProcessUnity workflows →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/processunity_alignment.md)
+
+
 ---
 
 ## 🔧 Setup Tutorial
