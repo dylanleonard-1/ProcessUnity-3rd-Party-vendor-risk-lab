@@ -32,23 +32,23 @@
 
 ## 🧭 Table of Contents
 
-## 🧭 Table of Contents
 
-- [🎯 What This Is](#-what-this-is)
-- [🚀 Key Features](#-key-features)
-- [📂 Folder Structure](#-folder-structure)
-- [⚙️ How CVEGenX Works: The Flow of Data](#-how-cvegenx-works-the-flow-of-data)
-- [📸 Mock Inject Sample](#-mock-inject-sample)
-- [📊 Excel + DAX Practice](#-excel--dax-practice)
-- [🤖 DaxForge: The Excel Simulation Engine (⚙️ Highlighted)](#-the-excel-simulation-engine--what-youd-do-in-excel--done-in-seconds)
-- [💡 Why It Matters](#-why-it-matters)
-- [🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment](#-dashboards-power-bi-splunk--processunity-alignment)
-- [📊 Why Dashboards Matter](#-why-dashboards-matter)
-- [🧩 ProcessUnity Compatibility](#-processunity-compatibility)
-- [🔧 Setup Tutorial](#-setup-tutorial)
-- [🛠️ Built For Real Practice](#-built-for-real-practice)
-- [👨‍💻 Author](#-author)
-- [📜 License](#-license)
+- [🎯 What This Is](#what-this-is)
+- [🚀 Key Features](#key-features)
+- [📂 Folder Structure](#folder-structure)
+- [⚙️ How CVEGenX Works: The Flow of Data](#how-cvegenx-works-the-flow-of-data)
+- [📸 Mock Inject Sample](#mock-inject-sample)
+- [📊 Excel + DAX Practice](#excel--dax-practice)
+- [🤖 DaxForge: The Excel Simulation Engine (⚙️ Highlighted)](#the-excel-simulation-engine-what-youd-do-in-excel-done-in-seconds)
+- [💡 Why It Matters](#why-it-matters)
+- [🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment](#dashboards-power-bi-splunk-processunity-alignment)
+- [📊 Why Dashboards Matter](#why-dashboards-matter)
+- [🧩 ProcessUnity Compatibility](#processunity-compatibility)
+- [🔧 Setup Tutorial](#setup-tutorial)
+- [🛠️ Built For Real Practice](#built-for-real-practice)
+- [👨‍💻 Author](#author)
+- [📜 License](#license)
+
 
 
 ---
