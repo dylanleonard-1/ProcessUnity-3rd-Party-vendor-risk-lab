@@ -120,7 +120,7 @@ This engine:
 > Perfectly tagged. Pre-formatted. Cleaned, sorted, and ready for risk analysts or GRC dashboards.
 
 <p align="center">
-  <a href="#the-excel-simulation-engine--what-youd-do-in-excel--done-in-seconds">
+  <a href="https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/scripts/README.md">
     <img src="https://img.shields.io/badge/Explore%20DAXForge%20Now-%F0%9F%9A%80-blue?style=for-the-badge" alt="Explore DAXForge">
   </a>
 </p>
