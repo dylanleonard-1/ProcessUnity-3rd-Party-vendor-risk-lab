@@ -35,7 +35,7 @@
 - [🎯 What This Is](#-what-this-is)
 - [🚀 Key Features](#-key-features)
 - [📂 Folder Structure](#-folder-structure)
-- [⚙️ How CVEGenX Works: The Flow of Data](#how-cvegenx-works-the-flow-of-data)
+- [How CVEGenX Works: The Flow of Data](#how-cvegenx-works-the-flow-of-data)
 - [📸 Mock Inject Sample](#-mock-inject-sample)
 - [📊 Excel + DAX Practice](#-excel--dax-practice)
 - [🚨 DaxForge: The Excel Simulation Engine](#-daxforge-the-excel-simulation-engine)
