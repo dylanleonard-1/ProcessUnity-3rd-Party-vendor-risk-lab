@@ -201,7 +201,7 @@ bash scripts/auto_enrich.sh
 
 📎 Want to understand how it works?
 
-🔗 [Engine Breakdown & Automation Logic →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/engine_breakdown.md)
+🔗 [Engine Breakdown & Automation Logic →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/scripts/README.md)
 
 ---
 
