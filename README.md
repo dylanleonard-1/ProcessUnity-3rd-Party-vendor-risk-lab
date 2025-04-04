@@ -37,28 +37,48 @@
 
 ---
 
-
 ## 🎯 What This Is
 
-This lab replicates **real-world vendor risk operations**. It generates simulated third-party vulnerability injects with randomized vendors, CVEs, exposure statuses, broken formatting, missing fields, duplicate entries, and more.
+This lab replicates the **entire lifecycle of real-world vendor risk management**, inspired by how tools like **ProcessUnity** handle intake, analysis, triage, and escalation.
 
-> ✅ Designed for SOCs, analysts, GRC teams, and red teams  
-> ✅ Supports Excel, Power BI, Splunk, SOAR  
-> ✅ Built for fast onboarding, dashboards, and training
+It generates simulated third-party vulnerability injects with:
+
+- Randomized vendors and contact metadata  
+- Realistic CVEs and exploit metadata  
+- Exposure flags and patch statuses  
+- Broken formatting, missing fields, duplicate entries  
+- Region-based risk scoring and escalation tags
+
+These injects mimic the exact logic you'd see in a GRC platform, preparing analysts to work with systems like **ProcessUnity**, **Splunk**, and **Power BI**.
+
+> ✅ Ideal for SOC analysts, GRC teams, vendor risk engineers, and red teamers  
+> ✅ Teaches vendor triage, patch validation, and SLA tagging  
+> ✅ Supports realistic practice in Excel, Splunk, SOAR, and Power BI  
+> ✅ Built for rapid training, portfolio simulation, and dashboard generation
 
 ---
 
 ## 🚀 Key Features
 
-- ⚙️ **Custom-built Python engine** to simulate third-party CVE injects
-- 🧠 **100+ realistic scenarios** (patch delays, CVSS errors, SLA violations, etc.)
-- 📥 Output directly into structured CSVs for Excel / dashboarding
-- 🤖 **Fully automated enrichment** using real patch/exploit metadata
-- 🧪 Built for practice in:
-  - Excel filtering, tagging, VLOOKUP/XLOOKUP
-  - Outreach simulation
-  - Dashboarding
-  - Risk tracking
+- ⚙️ **Python-based simulation engine**  
+  Auto-generates realistic CVE injects with randomized fields and scenarios.
+
+- 🧠 **100+ risk inject scenarios**  
+  Includes data anomalies like missing contact info, invalid formats, outdated CVEs, SLA violations, duplicate findings, and region spikes.
+
+- 📥 **Clean CSV output for Excel or dashboard use**  
+  Seamlessly imports into Excel, Power BI, or even simulated ProcessUnity workflows.
+
+- 🤖 **1-line enrichment engine**  
+  Adds exploit data, patch availability, publish date, and auto-tags each inject by risk and complexity.
+
+- 🧪 **Training-focused** — Built for hands-on analyst simulation:
+  - Excel filtering, tagging, VLOOKUP/XLOOKUP  
+  - Conditional formatting, escalation tracking  
+  - Power BI dashboard building  
+  - Simulated outreach based on vendor/contact fields  
+  - Risk tracking + SOAR response testing
+
 
 ---
 
