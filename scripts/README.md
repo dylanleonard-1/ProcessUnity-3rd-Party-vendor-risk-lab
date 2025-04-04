@@ -87,7 +87,7 @@ Each step in DaxForge was reverse-engineered from how analysts use Excel & GRC p
 
 ## 🔗 Related Pages
 
-- [CVEGenX Generator Breakdown →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/docs/cvegenx_breakdown.md)  
+- [CVEGenX Generator Breakdown →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/README.md)  
 - [Power BI Dashboard Examples →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/powerbi_dashboards)  
 - [Splunk SOAR Playbooks →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/splunk_soar)
 
