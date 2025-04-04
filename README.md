@@ -198,6 +198,16 @@ This lab’s engine replicates all of that, instantly:
 python3 generator/inject_generator.py --scenario mixed --count 50 --training_mode
 bash scripts/auto_enrich.sh
 ```
+## 🤖 DaxForge Mock Inject Sample
+
+```plaintext
+| Vendor            | CVE              | Exposure | Patch | Region | Risk   | Inject Complexity | Risk Level  | Tag SLA |
+|-------------------|------------------|----------|-------|--------|--------|-------------------|-------------|---------|
+| Initech Services  | CVE-2025-3171    | No       | No    | SA     | Medium | High              | Critical    | Flagged |
+| Globex Solutions  | CVE-2025-30113   | Yes      | Yes   | Asia   | High   | Low               | High        | Cleared |
+| Pied Piper Group  | CVE-2025-3121    | Pending  | Yes   | ME     | High   | Medium            | Critical    | Flagged |
+
+🔗 **[View Real Inject CSV →](https://1drv.ms/x/c/5ffba468ae197aa5/EaHtOdCYZq5CggDNubs_nM4BMjdO1-DuPhemMe-DXqLjRA?e=DuedTN)**
 
 📎 Want to understand how it works?
 
