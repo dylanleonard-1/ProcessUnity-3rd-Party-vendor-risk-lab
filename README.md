@@ -16,6 +16,27 @@
 
 ---
 
+---
+
+## 🧭 Table of Contents
+
+- [🎯 What This Is](#-what-this-is)
+- [🚀 Key Features](#-key-features)
+- [📂 Folder Structure](#-folder-structure)
+- [📸 Mock Inject Sample](#-mock-inject-sample)
+- [📊 Excel + DAX Practice](#-excel--dax-practice)
+- [🚨 **The Excel Simulation Engine**](#-the-engine-simulate--enrich-in-1-line)
+- [💡 Why It Matters](#-why-it-matters)
+- [🔥 Dashboards: Power BI, Splunk & SOAR](#-dashboards-power-bi-splunk--soar)
+- [📊 Why Dashboards Matter](#-why-dashboards-matter)
+- [🔧 Setup Tutorial](#-setup-tutorial)
+- [🛠️ Built For Real Practice](#-built-for-real-practice)
+- [👨‍💻 Author](#-author)
+- [📜 License](#-license)
+
+---
+
+
 ## 🎯 What This Is
 
 This lab replicates **real-world vendor risk operations**. It generates simulated third-party vulnerability injects with randomized vendors, CVEs, exposure statuses, broken formatting, missing fields, duplicate entries, and more.
