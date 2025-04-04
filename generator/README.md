@@ -3,7 +3,7 @@
 ## ⚙️ CVEGenX Breakdown: How the Simulation Engine Works
 
 <p align="center">
-  <img src="https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/ChatGPT%20Image%20Apr%203%2C%202025%2C%2008_23_51%20PM.png?raw=true" alt="Engine Breakdown - How It Works" width="800"/>
+  <img src="https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/ChatGPT%20Image%20Apr%203%2C%202025%2C%2008_50_50%20PM.png" alt="Engine Breakdown - How It Works" width="800"/>
 </p>
 
 > 🔧 This custom Python engine replicates a full analyst workflow — generating 50–100+ vendor injects in under **2 seconds**.  
