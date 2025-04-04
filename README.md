@@ -9,12 +9,22 @@
 > ⚙️ A full-scale training and simulation system for third-party risk & vulnerability management  
 > Built by **Dylan Leonard** – automating hours of analyst work in seconds.
 
-![Last Commit](https://img.shields.io/github/last-commit/dylanleonard-1/vendor-risk-lab)
-![Language](https://img.shields.io/github/languages/top/dylanleonard-1/vendor-risk-lab)
-![License](https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab)
-![Repo Stars](https://img.shields.io/github/stars/dylanleonard-1/vendor-risk-lab?style=social)
 
----
+
+---<p align="center">
+  <img src="https://img.shields.io/github/last-commit/dylanleonard-1/vendor-risk-lab" alt="Last Commit" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/languages/top/dylanleonard-1/vendor-risk-lab" alt="Top Language" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab" alt="License" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/github/stars/dylanleonard-1/vendor-risk-lab?style=social" alt="GitHub Stars" />
+  <br/>
+  <img src="https://img.shields.io/badge/status-Stable-success" alt="Status" />
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/badge/Built%20for-ProcessUnity-blue" alt="Built For ProcessUnity" />
+</p>
+
 
 ## 🧭 Table of Contents
 
