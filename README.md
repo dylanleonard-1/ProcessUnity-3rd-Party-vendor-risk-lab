@@ -16,14 +16,19 @@
   &nbsp;•&nbsp;
   <img src="https://img.shields.io/github/languages/top/dylanleonard-1/vendor-risk-lab" alt="Top Language" />
   &nbsp;•&nbsp;
-  <img src="https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab" alt="License" />
+  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab" alt="License" />
+  </a>
   &nbsp;•&nbsp;
-  <img src="https://img.shields.io/github/stars/dylanleonard-1/vendor-risk-lab?style=social" alt="GitHub Stars" />
+  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/stargazers">
+    <img src="https://img.shields.io/github/stars/dylanleonard-1/vendor-risk-lab?style=social" alt="GitHub Stars" />
+  </a>
   <br/>
   <img src="https://img.shields.io/badge/status-Stable-success" alt="Status" />
   &nbsp;•&nbsp;
   <img src="https://img.shields.io/badge/Built%20for-ProcessUnity-blue" alt="Built For ProcessUnity" />
 </p>
+
 
 
 ## 🧭 Table of Contents
