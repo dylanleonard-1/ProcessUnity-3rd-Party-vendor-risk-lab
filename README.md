@@ -1,4 +1,4 @@
-# 🛡️ Process Unity 3rd Party Vendor Risk Simulation Lab
+# 🛡️ ProcessUnity 3rd Party Vendor Risk Simulation Lab
 
 <p align="center">
   <img src="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/Screenshots/ChatGPT%20Image%20Apr%203%2C%202025%2C%2007_14_47%20PM.png?raw=true" alt="Vendor Risk Simulation Lab Banner" width="800">
