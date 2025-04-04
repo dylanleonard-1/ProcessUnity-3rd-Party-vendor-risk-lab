@@ -106,16 +106,52 @@ Teams can cut hours of manual work, reduce errors, and deliver cleaner outputs a
 
 ---
 
-## 🔥 Powering Dashboards in Splunk, SOAR & Power BI
+## 🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment
 
-- 📡 Splunk dashboards for tracking inject volume, severity, regions
-- 🧠 SOAR playbooks for auto-triage + tagging
-- 📈 Power BI visuals for team reports, vendor heatmaps, SLA metrics
+This lab is designed to simulate and **mirror the visibility you'd build inside ProcessUnity dashboards** — but locally, with full control and flexibility.
 
-🔗 [Splunk + SOAR Integration →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/splunk_soar)
+### 📈 Power BI
+
+- Drag-and-drop CSV outputs into Power BI to visualize:
+  - SLA status over time
+  - Region-level CVE trends
+  - Vendor heatmaps and overdue responses
+- Leverage **DAX formulas** to replicate risk scoring, escalation logic, and conditional flags you'd automate in ProcessUnity.
+
+> 🧠 This lets analysts **practice risk modeling and remediation visuals** before touching a live GRC environment.
+
 🔗 [Power BI Dashboard Walkthrough →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/powerbi_dashboards)
 
 ---
+
+### 📡 Splunk
+
+Splunk is used to **simulate real-time ingestion and alerting**, like you'd do with a ProcessUnity + SIEM integration:
+
+- Ingest your inject logs into Splunk Enterprise
+- Use fields like `Exposure_Confirmed`, `Patch_Available`, `Risk_Level` for live dashboards
+- Monitor anomalies, missing contacts, or sudden risk spikes by region
+
+🔗 [Splunk + SOAR Playbooks →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/splunk_soar)
+
+---
+
+### 🧩 ProcessUnity Compatibility
+
+This lab reflects the same lifecycle found in ProcessUnity workflows:
+
+| Simulation Lab Step          | Equivalent in ProcessUnity                          |
+|-----------------------------|-----------------------------------------------------|
+| Inject Generator             | Vendor scan intake / assessment trigger             |
+| CSV Output (Raw & Enriched) | Vendor risk register upload or data connector sync  |
+| Excel/DAX Dashboards         | ProcessUnity Risk Summary + SLA widgets             |
+| Outreach Simulator (WIP)     | Vendor remediation tracking + communication threads |
+| SOAR Integration             | Auto-remediation or ticketing escalation            |
+
+By using this toolset, you can **mimic ProcessUnity operations in a test environment**, sharpen your vendor risk skills, and build dashboards that **translate directly into real GRC platforms**.
+
+---
+
 
 ## 🔧 Setup Tutorial
 
