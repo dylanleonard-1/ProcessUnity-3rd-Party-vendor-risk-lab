@@ -1,5 +1,7 @@
 # 🛡️ Vendor Risk Simulation Lab
 
+![Vendor Risk Lab Banner](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/Screenshots/ChatGPT%20Image%20Apr%203%2C%202025%2C%2007_14_47%20PM.png?raw=true)
+
 > ⚙️ A full-scale training and simulation system for third-party risk & vulnerability management  
 > Built by **Dylan Leonard** – automating hours of analyst work in seconds.
 
