@@ -9,9 +9,9 @@
 > ⚙️ A full-scale training and simulation system for third-party risk & vulnerability management  
 > Built by **Dylan Leonard** – automating hours of analyst work in seconds.
 
+---
 
-
----<p align="center">
+<p align="center">
   <img src="https://img.shields.io/github/last-commit/dylanleonard-1/vendor-risk-lab" alt="Last Commit" />
   &nbsp;•&nbsp;
   <img src="https://img.shields.io/github/languages/top/dylanleonard-1/vendor-risk-lab" alt="Top Language" />
