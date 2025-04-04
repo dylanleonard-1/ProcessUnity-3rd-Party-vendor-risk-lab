@@ -142,7 +142,7 @@ bash scripts/auto_enrich.sh
 ```
 
 🧠 See behind-the-scenes logic here:  
-🔗 [Engine Breakdown →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/engine_breakdown.md)
+🔗 [Engine Breakdown →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/README.md)
 
 ---
 
