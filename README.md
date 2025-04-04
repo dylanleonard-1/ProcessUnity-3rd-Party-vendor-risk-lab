@@ -119,7 +119,7 @@ vendor-risk-lab/
 
 ---
 
-## ⚙️ How CVEGenX Works: The Flow of Data
+## ⚙️How CVEGenX Works: The Flow of Data
 
 Everything in this lab begins with **CVEGenX** — a custom Python system that automates how vendor risk data is created, enriched, and formatted for analysis.
 
