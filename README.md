@@ -16,8 +16,8 @@
   &nbsp;•&nbsp;
   <img src="https://img.shields.io/github/languages/top/dylanleonard-1/vendor-risk-lab" alt="Top Language" />
   &nbsp;•&nbsp;
-  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/edit/main/LICENSE">
-    <img src="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/LICENSE" alt="License: MIT" />
+  <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab" alt="License: MIT" />
   </a>
   &nbsp;•&nbsp;
   <a href="https://github.com/dylanleonard-1/vendor-risk-lab/stargazers">
@@ -28,8 +28,6 @@
   &nbsp;•&nbsp;
   <img src="https://img.shields.io/badge/Built%20for-ProcessUnity-blue" alt="Built For: ProcessUnity" />
 </p>
-
-
 
 
 ## 🧭 Table of Contents
