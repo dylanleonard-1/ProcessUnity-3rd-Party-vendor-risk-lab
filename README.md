@@ -167,6 +167,44 @@ It combines red team simulation, vendor outreach, GRC workflows, and analyst log
 
 ---
 
+---
+
+## 🤖 The Engine: What You’d Do in Excel — Done in Seconds
+
+Manually cleaning vendor injects in Excel takes time:
+
+- Copying CVE info
+- Validating patch availability
+- Filling in missing data
+- Highlighting SLA violations
+- Adding outreach or escalation tags
+
+### ⚙️ Enter the Inject Engine
+
+This lab’s engine replicates all of that, instantly:
+
+- **Randomly selects vendors + CVEs**
+- **Injects controlled errors** (missing contacts, duplicate CVEs, format issues)
+- **Adds metadata fields** like exploit availability, date published, and patch status
+- **Tags risk level + inject complexity**, just like you'd flag in Excel/DAX
+
+> 🧠 In other words: the exact same logic a GRC analyst would apply manually — **now automated and repeatable**.
+
+```bash
+# Simulate + Enrich
+python3 generator/inject_generator.py --scenario mixed --count 50 --training_mode
+bash scripts/auto_enrich.sh
+```
+
+---
+
+📎 Want to see **how the logic works behind the scenes**?
+
+🔗 [Engine Breakdown & Automation Logic →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/engine_breakdown.md)
+
+---
+
+
 ## 🧑‍💻 Author
 
 **Dylan Leonard**  
