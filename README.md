@@ -35,36 +35,6 @@
 
 ---
 
----
-
-## ⚙️ How It Works: The Flow of Data
-
-Everything in this lab begins with **the Engine** — a custom Python system that automates how vendor risk data is created, enriched, and formatted for analysis.
-
-> 🔧 It mimics what an analyst would manually do in Excel or inside ProcessUnity dashboards — but in seconds.
-
-### 🧬 The Engine Performs:
-- Randomized selection of vendors + fake CVEs
-- Controlled data mutations: missing contact info, duplicate CVEs, patch delay flags
-- Auto-tagging for fields like `Risk_Level`, `Exposure_Confirmed`, `Inject_Complexity`
-- Enrichment with **exploit data**, **patch metadata**, and **SLA tags**
-- Output into structured CSVs for:
-  - Excel + DAX analysis
-  - Power BI dashboards
-  - Splunk / SOAR ingestion
-  - GRC simulation like ProcessUnity
-
-Run it all with just **one command**:
-
-```bash
-python3 generator/inject_generator.py --scenario mixed --count 50 --training_mode
-bash scripts/auto_enrich.sh
-```
-
-🧠 See behind-the-scenes logic here:  
-🔗 [Engine Breakdown →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/engine_breakdown.md)
-
----
 
 ## 🎯 What This Is
 
@@ -108,6 +78,37 @@ vendor-risk-lab/
 ├── excel_training/          # Excel filtering & tagging logic
 └── README.md
 ```
+
+---
+
+---
+
+## ⚙️ How It Works: The Flow of Data
+
+Everything in this lab begins with **the Engine** — a custom Python system that automates how vendor risk data is created, enriched, and formatted for analysis.
+
+> 🔧 It mimics what an analyst would manually do in Excel or inside ProcessUnity dashboards — but in seconds.
+
+### 🧬 The Engine Performs:
+- Randomized selection of vendors + fake CVEs
+- Controlled data mutations: missing contact info, duplicate CVEs, patch delay flags
+- Auto-tagging for fields like `Risk_Level`, `Exposure_Confirmed`, `Inject_Complexity`
+- Enrichment with **exploit data**, **patch metadata**, and **SLA tags**
+- Output into structured CSVs for:
+  - Excel + DAX analysis
+  - Power BI dashboards
+  - Splunk / SOAR ingestion
+  - GRC simulation like ProcessUnity
+
+Run it all with just **one command**:
+
+```bash
+python3 generator/inject_generator.py --scenario mixed --count 50 --training_mode
+bash scripts/auto_enrich.sh
+```
+
+🧠 See behind-the-scenes logic here:  
+🔗 [Engine Breakdown →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/engine_breakdown.md)
 
 ---
 
