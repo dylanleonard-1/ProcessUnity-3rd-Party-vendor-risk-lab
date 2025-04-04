@@ -173,7 +173,7 @@ This lab helps you practice:
 
 ---
 
-## 🤖 The Engine: What You’d Do in Excel — Done in Seconds
+## 🤖 DaxForge: What You’d Do in Excel — Done in Seconds
 
 Manually cleaning vendor injects in Excel takes time:
 
@@ -183,7 +183,7 @@ Manually cleaning vendor injects in Excel takes time:
 - Highlighting SLA violations
 - Adding outreach or escalation tags
 
-### ⚙️ Enter the Inject Engine
+### ⚙️ Enter the DaxForge
 
 This lab’s engine replicates all of that, instantly:
 
