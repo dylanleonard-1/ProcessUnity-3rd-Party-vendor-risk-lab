@@ -116,6 +116,19 @@ This engine:
 
 ---
 
+
+> ⚡ **Want to see how this engine replaces hours of Excel work in seconds?**  
+> 🧠 The second half of the engine auto-generates clean, enriched injects — pre-tagged, pre-formatted, and DAX-ready for Power BI, Splunk, or ProcessUnity workflows.
+
+<p align="center">
+  <a href="#the-excel-simulation-engine--what-youd-do-in-excel--done-in-seconds">
+    <img src="https://img.shields.io/badge/Jump%20to%20Excel%20Engine-%F0%9F%9A%80-blue?style=for-the-badge" alt="Jump to Excel Automation Engine">
+  </a>
+</p>
+
+
+---
+
 👉 [View the actual engine code →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/generator/inject_generator.py)  
 👉 [Go deeper with the Automation Logic →](https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/docs/engine_breakdown.md)
 
