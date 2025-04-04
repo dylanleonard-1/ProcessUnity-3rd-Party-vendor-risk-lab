@@ -35,7 +35,7 @@
 - [🎯 What This Is](#-what-this-is)
 - [🚀 Key Features](#-key-features)
 - [📂 Folder Structure](#-folder-structure)
-- [⚙️ How CVEGenX Works: The Flow of Data](#--how-cvegenx-works-the-flow-of-data)
+- [⚙️ How CVEGenX Works: The Flow of Data](#-how-cvegenx-works-the-flow-of-data)
 - [📸 Mock Inject Sample](#-mock-inject-sample)
 - [📊 Excel + DAX Practice](#-excel--dax-practice)
 - [🚨DaxForge: What You’d Do in Excel — Done in Seconds](#daxforge-what-youd-do-in-excel--done-in-seconds)
@@ -119,7 +119,7 @@ vendor-risk-lab/
 
 ---
 
-## ⚙️ How CVEGenX Works: The Flow of Data
+## 🎯 How CVEGenX Works: The Flow of Data
 
 Everything in this lab begins with **CVEGenX** — a custom Python system that automates how vendor risk data is created, enriched, and formatted for analysis.
 
