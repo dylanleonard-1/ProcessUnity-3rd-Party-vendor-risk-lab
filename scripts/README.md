@@ -1,7 +1,7 @@
 # ⚙️ DaxForge: Excel Automation Engine
 
 <p align="center">
-  <img"https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/scripts/7411C94D-41D9-436F-8B2C-D486E43DA691.png" alt="DaxForge Excel Automation Engine" width="800">
+  <img src="https://github.com/dylanleonard-1/ProcessUnity-3rd-Party-vendor-risk-lab/blob/main/scripts/7411C94D-41D9-436F-8B2C-D486E43DA691.png" alt="DaxForge Excel Automation Engine" width="800">
 </p>
 
 ---
