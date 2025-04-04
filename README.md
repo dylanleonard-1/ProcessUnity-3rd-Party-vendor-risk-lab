@@ -38,7 +38,7 @@
 - [⚙️ How CVEGenX Works: The Flow of Data](#-how-cvegenx-works-the-flow-of-data)
 - [📸 Mock Inject Sample](#-mock-inject-sample)
 - [📊 Excel + DAX Practice](#-excel--dax-practice)
-- [🚨DaxForge: What You’d Do in Excel — Done in Seconds](#daxforge-what-youd-do-in-excel--done-in-seconds)
+- [🚨DaxForge: What You’d Do in Excel — Done in Seconds](#-daxforge-what-youd-do-in-excel--done-in-seconds)
 - [💡 Why It Matters](#-why-it-matters)
 - [🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment](#-dashboards-power-bi-splunk--processunity-alignment)
 - [📊 Why Dashboards Matter](#-why-dashboards-matter)
@@ -175,7 +175,7 @@ This lab helps you practice:
 
 ---
 
-## DaxForge: What You’d Do in Excel — Done in Seconds
+## 🚨 DaxForge: What You’d Do in Excel — Done in Seconds
 
 Manually cleaning vendor injects in Excel takes time:
 
