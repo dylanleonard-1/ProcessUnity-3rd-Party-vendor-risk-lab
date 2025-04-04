@@ -17,17 +17,18 @@
   <img src="https://img.shields.io/github/languages/top/dylanleonard-1/vendor-risk-lab" alt="Top Language" />
   &nbsp;•&nbsp;
   <a href="https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab" alt="License" />
+    <img src="https://img.shields.io/github/license/dylanleonard-1/vendor-risk-lab" alt="License: MIT" />
   </a>
   &nbsp;•&nbsp;
   <a href="https://github.com/dylanleonard-1/vendor-risk-lab/stargazers">
     <img src="https://img.shields.io/github/stars/dylanleonard-1/vendor-risk-lab?style=social" alt="GitHub Stars" />
   </a>
   <br/>
-  <img src="https://img.shields.io/badge/status-Stable-success" alt="Status" />
+  <img src="https://img.shields.io/badge/status-Stable-success" alt="Project Status: Stable" />
   &nbsp;•&nbsp;
-  <img src="https://img.shields.io/badge/Built%20for-ProcessUnity-blue" alt="Built For ProcessUnity" />
+  <img src="https://img.shields.io/badge/Built%20for-ProcessUnity-blue" alt="Built For: ProcessUnity" />
 </p>
+
 
 
 
