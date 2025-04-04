@@ -133,7 +133,7 @@ Everything in this lab begins with **the Engine** — a custom Python system tha
   - Power BI dashboards
   - Splunk / SOAR ingestion
   - GRC simulation like ProcessUnity
-
+https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/LICENSE
 Run it all with just **one command**:
 
 ```bash
@@ -301,4 +301,8 @@ Use it for:
 
 ## 📜 License
 
-MIT License — for educational, research, and simulation use.
+This project is licensed under the [MIT License](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/LICENSE).
+
+> A short, permissive license for educational, research, and simulation use.  
+> No warranties or guarantees are provided — use at your own risk.
+
