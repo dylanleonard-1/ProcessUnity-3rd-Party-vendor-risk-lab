@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## 🧭 Table of Contents
 
 - [🎯 What This Is](#-what-this-is)
@@ -25,17 +23,17 @@
 - [📂 Folder Structure](#-folder-structure)
 - [📸 Mock Inject Sample](#-mock-inject-sample)
 - [📊 Excel + DAX Practice](#-excel--dax-practice)
-- [🚨 **The Excel Simulation Engine**](#-the-engine-simulate--enrich-in-1-line)
+- [🚨 The Excel Simulation Engine (⚙️ Highlighted)](#-the-engine-what-youd-do-in-excel--done-in-seconds)
 - [💡 Why It Matters](#-why-it-matters)
-- [🔥 Dashboards: Power BI, Splunk & SOAR](#-dashboards-power-bi-splunk--soar)
+- [🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment](#-dashboards-power-bi-splunk--processunity-alignment)
 - [📊 Why Dashboards Matter](#-why-dashboards-matter)
+- [🧩 ProcessUnity Compatibility](#-processunity-compatibility)
 - [🔧 Setup Tutorial](#-setup-tutorial)
 - [🛠️ Built For Real Practice](#-built-for-real-practice)
 - [👨‍💻 Author](#-author)
 - [📜 License](#-license)
 
 ---
-
 
 ## 🎯 What This Is
 
@@ -65,24 +63,24 @@ This lab replicates **real-world vendor risk operations**. It generates simulate
 
 ```
 vendor-risk-lab/
-│
-├── generator/
-│   ├── inject_generator.py        # CLI-based inject engine
-│   ├── scenario_templates.csv     # 100+ unique inject rules
-│   ├── vendors.csv                # Simulated third-party vendors
-│   └── vuln_pool_100.csv          # CVE-like vulnerability pool
-│
-├── injects/                       # Injects output here
-├── output/                        # Enriched injects after mapping
-├── data/                          # Patch mapping data, etc.
-├── dashboards/                    # Power BI mockups
-├── communications/               # Outreach templates & tools (WIP)
+├── generator/               # CLI-based inject engine
+│   ├── inject_generator.py
+│   ├── scenario_templates.csv
+│   ├── vendors.csv
+│   └── vuln_pool_100.csv
+├── injects/                 # Raw injects
+├── output/                  # Enriched output
+├── data/                    # Patch enrichment references
+├── dashboards/              # Power BI mockups
+├── communications/          # WIP outreach tools
+├── splunk_soar/             # Splunk & SOAR integration
+├── excel_training/          # Excel filtering & tagging logic
 └── README.md
 ```
 
 ---
 
-## 📸 Mock Inject Example
+## 📸 Mock Inject Sample
 
 ```plaintext
 | Vendor            | CVE              | Exposure | Patch | Region | Risk   |
@@ -99,118 +97,13 @@ vendor-risk-lab/
 ## 📊 Excel + DAX Practice
 
 This lab helps you practice:
-- 🔍 Searching & filtering bad or missing data
-- 🧮 DAX tags for SLA violation, missing patch, no contact
-- ✅ Conditional formatting for critical vendors
-- 📧 Outreach tagging ("Escalate", "Remind", "Flag")
 
-🔗 [Excel Deep Dive & Tutorial →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/excel_training)
+- 🔍 Filtering bad or missing data in Excel
+- 🧮 Creating DAX tags for SLA violations and patch status
+- ✅ Conditional formatting based on risk or region
+- 📧 Simulating outreach using escalation tags
 
----
-
-## 🤖 The Engine: Inject + Enrich in 1 Line
-
-```bash
-python3 generator/inject_generator.py --scenario mixed --count 50 --training_mode
-bash scripts/auto_enrich.sh
-```
-
----
-
-## 💡 Why It Matters
-
-> "Without this tool, analysts spend **2–3 hours per session** collecting CVEs, formatting injects, copying vendor info, checking patch data, and cleaning up outputs for dashboards.  
->  
-> With this engine? 1 command. 2 minutes. Same results — **faster**, **cleaner**, **automated**, and **repeatable**."
-
-Teams can cut hours of manual work, reduce errors, and deliver cleaner outputs at scale.
-
----
-
-## 🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment
-
-This lab is designed to simulate and **mirror the visibility you'd build inside ProcessUnity dashboards** — but locally, with full control and flexibility.
-
-### 📈 Power BI
-
-- Drag-and-drop CSV outputs into Power BI to visualize:
-  - SLA status over time
-  - Region-level CVE trends
-  - Vendor heatmaps and overdue responses
-- Leverage **DAX formulas** to replicate risk scoring, escalation logic, and conditional flags you'd automate in ProcessUnity.
-
-> 🧠 This lets analysts **practice risk modeling and remediation visuals** before touching a live GRC environment.
-
-🔗 [Power BI Dashboard Walkthrough →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/powerbi_dashboards)
-
----
-
-### 📡 Splunk
-
-Splunk is used to **simulate real-time ingestion and alerting**, like you'd do with a ProcessUnity + SIEM integration:
-
-- Ingest your inject logs into Splunk Enterprise
-- Use fields like `Exposure_Confirmed`, `Patch_Available`, `Risk_Level` for live dashboards
-- Monitor anomalies, missing contacts, or sudden risk spikes by region
-
-🔗 [Splunk + SOAR Playbooks →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/splunk_soar)
-
----
-
----
-
-## 📊 Why Dashboards Matter
-
-Dashboards aren't just visuals — they're your **control center**.
-
-In real-world GRC workflows (like in **ProcessUnity**), dashboards help you:
-
-- 🔎 Instantly identify vendors with critical vulnerabilities
-- 🚩 Detect SLA breaches, patch delays, or missing contact info
-- 📧 Prioritize outreach based on region, severity, or exposure
-- ⏳ Track remediation timelines and vendor engagement
-
-> Think of dashboards as **triage + escalation control** for third-party risk — and this lab mirrors that logic.
-
-Whether you're using Power BI, Splunk, or SOAR widgets, this simulation gives you export-ready CSVs and mapped fields like:
-
-- `Risk_Level`, `Patch_Available`, `Exposure_Confirmed`, `Days_Since_Last_Contact`
-
-🔗 [See Dashboard Strategy & Examples →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/dashboard_guide.md)
-
----
-
-
-### 🧩 ProcessUnity Compatibility
-
-This lab reflects the same lifecycle found in ProcessUnity workflows:
-
-| Simulation Lab Step          | Equivalent in ProcessUnity                          |
-|-----------------------------|-----------------------------------------------------|
-| Inject Generator             | Vendor scan intake / assessment trigger             |
-| CSV Output (Raw & Enriched) | Vendor risk register upload or data connector sync  |
-| Excel/DAX Dashboards         | ProcessUnity Risk Summary + SLA widgets             |
-| Outreach Simulator (WIP)     | Vendor remediation tracking + communication threads |
-| SOAR Integration             | Auto-remediation or ticketing escalation            |
-
-By using this toolset, you can **mimic ProcessUnity operations in a test environment**, sharpen your vendor risk skills, and build dashboards that **translate directly into real GRC platforms**.
-
----
-
-
-## 🔧 Setup Tutorial
-
-> Ready to get started?  
-📦 Clone this repo and check out the [Setup Guide →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/SETUP.md)
-
----
-
-## 🛠️ Built For Real Practice
-
-This project was built from scratch as part of my training workflow.  
-It combines red team simulation, vendor outreach, GRC workflows, and analyst logic into one fully automated engine.
-
----
+🔗 [Excel Deep Dive →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/excel_training)
 
 ---
 
@@ -228,29 +121,111 @@ Manually cleaning vendor injects in Excel takes time:
 
 This lab’s engine replicates all of that, instantly:
 
-- **Randomly selects vendors + CVEs**
-- **Injects controlled errors** (missing contacts, duplicate CVEs, format issues)
-- **Adds metadata fields** like exploit availability, date published, and patch status
-- **Tags risk level + inject complexity**, just like you'd flag in Excel/DAX
+- Randomly selects vendors + CVEs
+- Injects controlled errors (missing contacts, duplicate CVEs, format issues)
+- Adds metadata fields like exploit availability and patch status
+- Tags `Risk_Level`, `Inject_Complexity`, and other fields just like in ProcessUnity dashboards
 
-> 🧠 In other words: the exact same logic a GRC analyst would apply manually — **now automated and repeatable**.
+> 🧠 The same GRC logic — made fast, repeatable, and scalable.
 
 ```bash
-# Simulate + Enrich
 python3 generator/inject_generator.py --scenario mixed --count 50 --training_mode
 bash scripts/auto_enrich.sh
 ```
 
----
-
-📎 Want to see **how the logic works behind the scenes**?
+📎 Want to understand how it works?
 
 🔗 [Engine Breakdown & Automation Logic →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/engine_breakdown.md)
 
 ---
 
+## 💡 Why It Matters
 
-## 🧑‍💻 Author
+> “Without this engine, analysts spend 2–3 hours building injects, cleaning data, checking patch info, and preparing dashboards.  
+> With this engine? 1 line. 2 minutes. 100 injects — cleaned, enriched, and tagged.”
+
+---
+
+## 🔥 Dashboards: Power BI, Splunk & ProcessUnity Alignment
+
+This lab is built to mirror dashboard logic in ProcessUnity:
+
+### 📈 Power BI
+
+- Visualize SLA breaches, patch status, risk by region
+- Create vendor heatmaps and overdue timelines
+- Use DAX to build scoring models and filters
+
+🔗 [Power BI Dashboard Walkthrough →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/powerbi_dashboards)
+
+---
+
+### 📡 Splunk
+
+Simulate live ingestion for SIEM + GRC fusion:
+
+- Ingest CSVs into Splunk Enterprise
+- Search fields like `Patch_Available`, `Risk_Level`, `Days_Since_Last_Contact`
+- Create alerts or trend dashboards on vendor risk spikes
+
+🔗 [Splunk + SOAR Playbooks →](https://github.com/dylanleonard-1/vendor-risk-lab/tree/main/splunk_soar)
+
+---
+
+## 📊 Why Dashboards Matter
+
+Dashboards = your GRC command center.
+
+In ProcessUnity or Power BI, they let you:
+
+- 🔎 Pinpoint at-risk vendors instantly
+- 🚩 Detect SLA gaps, late responses, or missing contacts
+- 📧 Prioritize outreach by severity and region
+- ⏳ Monitor timelines for closure or escalation
+
+> Use this lab to rehearse real GRC responses in a simulated workspace.
+
+🔗 [See Dashboard Strategy & Examples →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/docs/dashboard_guide.md)
+
+---
+
+## 🧩 ProcessUnity Compatibility
+
+| Simulation Lab Step          | Equivalent in ProcessUnity                          |
+|-----------------------------|-----------------------------------------------------|
+| Inject Generator             | Vendor scan intake / assessment trigger             |
+| CSV Output (Raw & Enriched) | Vendor risk register upload or data sync            |
+| Excel/DAX Dashboards         | Risk summary + SLA widgets                          |
+| Outreach Simulator (WIP)     | Remediation tracking + comms thread                 |
+| SOAR Integration             | Auto-remediation or alert routing                   |
+
+By mimicking ProcessUnity lifecycle steps, this lab builds transferable skills for live GRC platforms.
+
+---
+
+## 🔧 Setup Tutorial
+
+> Ready to get started?
+
+📦 Clone this repo and follow the [Setup Guide →](https://github.com/dylanleonard-1/vendor-risk-lab/blob/main/SETUP.md)
+
+---
+
+## 🛠️ Built For Real Practice
+
+Designed from scratch to simulate full vendor risk workflows — from CVE discovery to SOAR escalation — using local files and open tools.
+
+Use it for:
+
+- 🧪 Red team emulation
+- 📊 GRC dashboard practice
+- 📧 Outreach simulation
+- 🔐 Interview prep
+- 📡 Live tool integration
+
+---
+
+## 👨‍💻 Author
 
 **Dylan Leonard**  
 🔗 [GitHub](https://github.com/dylanleonard-1) | [LinkedIn](https://www.linkedin.com/in/dylan-leonard-b0962825b/)  
@@ -260,4 +235,4 @@ bash scripts/auto_enrich.sh
 
 ## 📜 License
 
-MIT License – For education, training, and red team simulation use.
+MIT License — for educational, research, and simulation use.
