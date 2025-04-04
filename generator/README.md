@@ -116,13 +116,12 @@ This engine:
 
 ---
 
-
-> ⚡ **Want to see how this engine replaces hours of Excel work in seconds?**  
-> 🧠 The second half of the engine auto-generates clean, enriched injects — pre-tagged, pre-formatted, and DAX-ready for Power BI, Splunk, or ProcessUnity workflows.
+> 🧠 Introducing **DAXForge** — the automation engine that turns raw injects into Excel + dashboard-ready data in **seconds**.  
+> Perfectly tagged. Pre-formatted. Cleaned, sorted, and ready for risk analysts or GRC dashboards.
 
 <p align="center">
   <a href="#the-excel-simulation-engine--what-youd-do-in-excel--done-in-seconds">
-    <img src="https://img.shields.io/badge/Jump%20to%20Excel%20Engine-%F0%9F%9A%80-blue?style=for-the-badge" alt="Jump to Excel Automation Engine">
+    <img src="https://img.shields.io/badge/Explore%20DAXForge%20Now-%F0%9F%9A%80-blue?style=for-the-badge" alt="Explore DAXForge">
   </a>
 </p>
 
